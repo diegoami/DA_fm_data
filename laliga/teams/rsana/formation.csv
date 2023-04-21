@@ -1,0 +1,86 @@
+Match,Player,UID
+#GK,Kim Christian Høyenhall,2000182998
+GK,Álex Remiro,67183918
+#DR,Piotr Jabłoński,2000623979
+#DR,William Saliba,49039004
+#DR,Brandon Williams,28115834
+DR,Lukas Mohr,2000432897
+#DR,Kai Ocaña,2000194470
+#DR,John Damiano,2000435431
+DC,William Saliba,49039004
+DC,Robin Le Normand,48037162
+#DC,Renato Pereira,2000190646
+#DC,Ignacio Vallina,2000570634
+#DC,David Carmo,83111598
+#DC,Lukas Mohr,2000432897
+#DC,Denis Zakaria,98034601
+#DC,António Silva,83320135
+#DC,John Damiano,2000435431
+#DC,Souza,2000607666
+#DL,William Saliba,49039004
+#DL,Brandon Williams,28115834
+DL,David Carmo,83111598
+#DL,Lukas Mohr,2000432897
+#DL,Souza,2000607666
+#WBR,Piotr Jabłoński,2000623979
+#WBR,Brandon Williams,28115834
+DM,Renato Pereira,2000190646
+#DM,Ignacio Vallina,2000570634
+#DM,David Carmo,83111598
+#DM,Denis Zakaria,98034601
+#DM,Sergi Pascual,2000196434
+#DM,José Gragera,67263880
+#DM,Paweł Brzyski,2000433744
+#DM,John Damiano,2000435431
+#DM,Souza,2000607666
+#DM,Scott Diaz,2000706461
+#WBL,Brandon Williams,28115834
+#WBL,Pablo,2000572050
+#MR,John Bueno,2000419425
+#MR,Kai Ocaña,2000194470
+#MR,Felipe,2000510074
+#MR,Koldo Valencia,2000663358
+#MC,Renato Pereira,2000190646
+#MC,Ignacio Vallina,2000570634
+MC,Ayrton Tallura,2000274550
+#MC,John Bueno,2000419425
+#MC,Denis Zakaria,98034601
+#MC,Sergi Pascual,2000196434
+#MC,Gaetano Oristanio,43425611
+MC,José Gragera,67263880
+#MC,Paweł Brzyski,2000433744
+#MC,John Damiano,2000435431
+#MC,Souza,2000607666
+#MC,Scott Diaz,2000706461
+#ML,Matthias Hasa,2000568032
+#ML,Pablo,2000572050
+#AMR,Piotr Jabłoński,2000623979
+#AMR,Luka Bransteter,2000054638
+#AMR,Adam Hlozek,31041522
+AMR,Tibo De Vos,2000663034
+#AMR,Mikel Oyarzábal,67220143
+#AMR,Gabriel Martinelli,19351309
+#AMR,Kai Ocaña,2000194470
+#AMR,Felipe,2000510074
+#AMR,Koldo Valencia,2000663358
+#AMC,Ayrton Tallura,2000274550
+#AMC,John Bueno,2000419425
+#AMC,Mikel Oyarzábal,67220143
+#AMC,Gabriel Martinelli,19351309
+#AMC,Gaetano Oristanio,43425611
+#AMC,Paweł Brzyski,2000433744
+#AMC,Koldo Valencia,2000663358
+#AMC,Scott Diaz,2000706461
+#AML,Adam Hlozek,31041522
+#AML,Mikel Oyarzábal,67220143
+#AML,Matthias Hasa,2000568032
+AML,Gabriel Martinelli,19351309
+#AML,Pablo,2000572050
+#AML,Koldo Valencia,2000663358
+#STC,Luka Bransteter,2000054638
+#STC,Adam Hlozek,31041522
+#STC,Tibo De Vos,2000663034
+#STC,Mikel Oyarzábal,67220143
+#STC,Gabriel Martinelli,19351309
+STC,Gaetano Oristanio,43425611
+#STC,Felipe,2000510074
