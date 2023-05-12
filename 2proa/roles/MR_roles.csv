@@ -1,0 +1,59 @@
+Player,UID,GK,DR,DC,DL,WBR,DM,WBL,MR,MC,ML,AMR,AMC,AML,STC,Team
+Aritz Núñez,2000570283,0,0,0,0,0,0,0,1,0,0,1,0,0,0,abilbaoc
+Koldo Vélez,2000570278,0,0,0,0,0,0,0,1,0,0,1,0,0,1,abilbaoc
+Jokin Aguirre,2000628756,0,1,0,0,1,0,0,1,0,0,0,0,0,0,abilbaoc
+José María Navarro,2000571796,0,0,0,0,0,0,0,1,0,0,1,0,0,1,andorra
+Bryan Zaragoza,2000054263,0,0,0,0,0,0,0,1,0,1,0,1,1,0,andorra
+Iñaki Díez,2000438806,0,0,0,0,0,0,0,1,0,0,1,0,1,0,apamplonab
+Víctor Sarriegi,2000570454,0,0,0,0,0,0,0,1,0,0,1,1,1,1,apamplonab
+Gorka Santamaría,2000629739,0,0,0,0,0,0,0,1,0,0,1,0,1,1,apamplonab
+Josh Pérez,72046491,0,0,0,0,0,0,0,1,0,0,1,0,1,0,badalona
+Babacar Faye,2000197156,0,0,0,0,0,0,0,1,0,0,1,1,1,0,eibar
+Iván Calero,67176056,0,1,0,1,1,0,1,1,0,1,1,0,0,0,eibar
+Lubomir Toth,2000626733,0,0,0,0,0,0,0,1,1,0,1,0,0,0,eibar
+Eduardo Bautista,2000207175,0,0,0,0,0,0,0,1,1,0,1,0,0,0,girona
+Diogo Fonseca,2000197949,0,1,1,0,1,0,0,1,1,0,0,0,0,0,hospitalet
+Echu,67229627,0,0,0,0,0,0,0,1,1,1,1,1,1,1,hospitalet
+Sandro,2000515229,0,1,0,0,1,0,0,1,0,0,1,0,0,0,hospitalet
+Juan Pablo Castellano,2000513639,0,0,0,0,0,0,0,1,0,0,1,0,0,1,leonesa
+Jaime Reques,2000077283,0,0,0,0,0,0,0,1,1,1,0,0,1,0,leonesa
+Ander Martín,2000058172,0,0,0,0,0,0,0,1,1,0,1,0,0,0,leonesa
+Hugo Neves,83333462,0,0,0,0,0,0,0,1,0,1,1,0,1,0,leonesa
+Alan Espeche,14197823,0,0,0,0,0,0,0,1,0,0,1,1,1,0,leonesa
+Eneko Aguilar,67297733,0,1,0,0,1,0,0,1,1,0,1,0,0,0,lleida
+David Mallor,2000202555,0,0,0,0,0,0,0,1,0,0,1,0,0,1,lleida
+Rayan Arkine,2000512092,0,0,0,0,0,0,0,1,1,0,1,0,0,1,lleida
+Abderraman Rebbach,2000053956,0,0,0,0,0,0,0,1,0,1,1,0,1,0,lleida
+Erik Aguado,2000025945,0,0,0,0,0,0,0,1,0,0,1,0,0,1,lleida
+David Carmona,67188934,0,1,0,0,1,0,0,1,0,0,1,0,0,0,logrones
+Marcos Trabanco,2000016812,0,1,0,0,1,0,0,1,0,0,1,0,0,0,logrones
+Toni Moya,67223078,0,0,0,0,0,1,0,1,1,0,0,0,0,0,logrones
+Alex Aketxe,2000443798,0,1,0,0,1,0,0,1,0,0,1,0,0,0,mirandes
+Álex,2000509919,0,0,0,0,0,0,0,1,0,0,1,0,0,1,mirandes
+Facundo Barboza,2000280204,0,0,0,0,0,0,0,1,1,0,1,0,0,0,mirandes
+Felipe Núñez,2000197172,0,1,1,0,0,0,0,1,0,0,0,0,0,0,mirandes
+Castri,67294959,0,0,0,0,0,0,0,1,1,1,1,0,1,1,numantia
+Ander Azparren,2000199803,0,0,0,0,0,0,0,1,0,0,1,0,0,1,numantia
+Asier Pinillos,2000574064,0,0,0,0,0,1,0,1,1,0,0,0,0,0,numantia
+Kevin,2000199813,0,0,0,0,0,0,0,1,0,0,0,1,0,1,numantia
+Omri Hemo,2000440760,0,0,0,0,0,0,0,1,1,0,0,1,0,0,olot
+Francisco Eduardo García,2000198830,0,0,0,0,0,0,0,1,0,0,1,0,0,1,olot
+Miguel Fernández,67263770,0,0,0,0,0,0,0,1,1,0,1,0,1,0,olot
+Juan Carlos Chasco,2000574123,0,0,0,0,0,0,0,1,1,0,1,0,0,0,olot
+Migue Fernández,2000513270,0,0,0,0,0,0,0,1,1,0,1,1,1,0,ponferrada
+David Alfonso,67244455,0,0,0,0,0,0,0,1,0,0,1,0,1,1,pontevedra
+Koldo Valencia,2000663358,0,0,0,0,0,0,0,1,0,0,1,1,1,0,rsanb
+Álvaro Sánchez,2000685713,0,0,0,0,0,0,0,1,1,0,1,0,0,0,rsanb
+Kian Van Den Bergh,2000632259,0,0,0,0,0,0,0,1,0,0,1,0,1,1,rsanb
+Felipe,2000510074,0,0,0,0,0,0,0,1,0,0,1,0,0,1,rsanb
+Saverio van Lopik,2000437951,0,0,0,0,0,0,0,1,1,0,0,1,0,0,rsanb
+Adama Mendy,2000663542,0,1,1,0,0,0,0,1,0,0,0,0,0,0,rsantander
+Alvaro Montoya,2000440605,0,0,0,0,0,0,0,1,0,0,1,1,0,1,rsantander
+Dramane Diarra,2000710909,0,0,0,0,0,0,0,1,0,0,1,0,0,0,rsantander
+Luis,2000193720,0,1,0,1,1,1,0,1,0,0,0,0,0,0,sabadell
+Mauro Puche,2000512104,0,0,0,0,0,0,0,1,0,1,1,0,0,0,sabadell
+Gerardo Rodríguez,2000631751,0,0,0,0,0,0,0,1,0,0,1,0,0,1,tarragona
+Cristóbal Guillén,2000438353,0,0,0,0,0,0,0,1,0,0,1,0,0,1,tarragona
+Julio,2000629924,0,1,0,0,1,0,0,1,0,0,0,0,0,0,zaragozab
+Santiago Martínez,2000570461,0,0,0,0,1,0,0,1,0,0,1,0,0,1,zaragozab
+Hirofumi Saitô,2000192902,0,0,0,0,0,0,0,1,0,0,1,0,0,1,zaragozab

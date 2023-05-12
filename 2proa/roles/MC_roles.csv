@@ -1,0 +1,158 @@
+Player,UID,GK,DR,DC,DL,WBR,DM,WBL,MR,MC,ML,AMR,AMC,AML,STC,Team
+Beñat Unzueta,2000629411,0,0,0,0,0,0,0,0,1,0,1,0,0,0,abilbaoc
+José Antón Garrido,2000510692,0,0,0,0,0,0,0,0,1,0,1,0,0,1,abilbaoc
+Mikel Castelo,2000510693,0,0,1,1,0,1,1,0,1,0,0,0,0,0,abilbaoc
+Alfredo Núñez,2000570280,0,0,1,0,0,1,0,0,1,0,0,0,0,0,abilbaoc
+Juan Manuel Díez,2000629228,0,0,0,0,0,0,0,0,1,0,0,1,0,0,abilbaoc
+Aritz Imaz,2000629407,0,0,0,0,0,0,0,0,1,0,0,0,0,0,abilbaoc
+Iker Jiménez,2000629408,0,0,1,0,0,1,0,0,1,0,0,0,0,0,abilbaoc
+Josu Jauregi,2000629409,0,0,1,0,0,1,0,0,1,0,0,0,0,0,abilbaoc
+Didier Oyarzun,2000632730,0,0,0,0,0,0,0,0,1,0,0,1,1,0,abilbaoc
+Hugo Bueno,28127371,0,0,0,1,0,0,1,0,1,0,0,0,0,0,andorra
+Jesús Díaz,2000437762,0,0,0,0,0,0,0,0,1,0,0,1,0,1,andorra
+Amador,2000440900,0,1,0,0,0,1,0,0,1,0,0,0,0,0,andorra
+Francisco Javier Sáiz,2000679747,0,0,0,0,0,0,0,0,1,0,1,1,0,0,andorra
+Miguel Gómez,2000055060,0,0,1,0,0,1,0,0,1,0,0,0,0,0,andorra
+Èric Montes,95036004,0,1,1,0,0,1,0,0,1,0,0,0,0,0,andorra
+Jon Ander Garai,2000684546,0,0,0,0,0,0,0,0,1,0,0,1,0,0,andorra
+Atakan Karazor,92074021,0,0,1,0,0,1,0,0,1,0,0,0,0,0,apamplonab
+Mikel Bengoetxea,2000510871,0,1,1,0,0,1,0,0,1,0,0,0,0,0,apamplonab
+Álex Lillo,2000438804,0,0,0,0,0,0,0,0,1,0,0,0,0,0,apamplonab
+Peio Arana,2000438809,0,0,0,0,0,0,0,0,1,1,0,0,1,0,apamplonab
+Lander Goñi,2000510872,0,0,0,0,0,1,0,0,1,0,0,1,0,0,apamplonab
+Iosu Pérez,2000510877,0,1,1,0,0,1,0,0,1,0,0,0,0,0,apamplonab
+Marcos Goñi,2000629740,0,0,0,0,0,0,0,0,1,0,0,1,1,0,apamplonab
+Martín Alonso,2000681854,0,0,0,0,0,0,0,0,1,0,1,1,0,0,badalona
+Iván,2000574699,0,0,0,0,0,1,0,0,1,0,0,0,0,0,badalona
+Mati,2000556504,0,0,0,0,1,0,0,0,1,1,1,0,1,1,badalona
+Ale Sánchez,2000512877,0,0,1,0,0,1,0,0,1,1,1,1,1,0,badalona
+Christian Díaz,2000510073,0,1,1,0,0,0,0,0,1,0,0,0,0,0,badalona
+Ramón López,2000679928,0,0,0,0,0,0,0,0,1,0,1,1,0,0,badalona
+Roger Colomina,2000015276,0,0,0,0,0,0,0,0,1,0,0,1,0,0,badalona
+Óscar Coll,67277671,0,0,0,0,0,0,0,0,1,0,0,1,0,0,badalona
+Iván Gil,67277668,0,0,0,0,0,0,0,0,1,0,0,1,0,0,badalona
+Nacho Méndez,67248345,0,0,0,0,0,0,0,0,1,0,0,1,1,0,eibar
+Fran,2000666004,0,0,0,0,0,1,0,0,1,0,0,0,0,0,eibar
+Jonay Prieto,2000197151,0,0,0,0,0,0,0,0,1,0,0,1,0,0,eibar
+Antonio Sánchez,2000570832,0,0,1,0,0,1,0,0,1,0,0,0,0,0,eibar
+Xisco Cardona,2000572821,0,0,0,0,0,0,0,0,1,0,0,1,0,0,eibar
+Álex López,67257948,0,0,1,0,0,1,0,0,1,0,0,0,0,0,eibar
+Lubomir Toth,2000626733,0,0,0,0,0,0,0,1,1,0,1,0,0,0,eibar
+Vicente Jové,2000574547,0,0,0,0,0,0,0,0,1,0,0,1,0,1,girona
+Diego Mercado,14160026,0,0,0,0,0,1,0,0,1,0,0,0,0,0,girona
+Miguel Rodríguez,2000192674,0,0,0,0,0,0,0,0,1,1,1,1,1,0,girona
+Eduardo Bautista,2000207175,0,0,0,0,0,0,0,1,1,0,1,0,0,0,girona
+Antonio Manuel Bazán,2000714138,0,0,0,0,0,1,0,0,1,0,0,1,0,0,girona
+Morris Pietranera,2000568425,0,0,0,0,0,0,0,0,1,0,0,0,1,1,girona
+Giancarlo Perea,2000512704,0,0,0,0,0,0,0,0,1,0,0,1,0,1,girona
+Sullivan Mayele,2000506525,0,0,0,0,0,1,0,0,1,0,0,1,0,0,girona
+Jon Magunazelaia,2000082492,0,0,0,0,0,0,0,0,1,0,0,1,0,1,girona
+Ibrahima Kébé,2000024313,0,0,0,0,0,1,0,0,1,0,0,0,0,0,girona
+Diogo Fonseca,2000197949,0,1,1,0,1,0,0,1,1,0,0,0,0,0,hospitalet
+Isma Aizpiri,29164025,0,0,1,0,0,1,0,0,1,0,0,0,0,0,hospitalet
+Xabier Cárdenas,67220146,0,0,0,0,0,0,0,0,1,0,0,0,0,0,hospitalet
+Echu,67229627,0,0,0,0,0,0,0,1,1,1,1,1,1,1,hospitalet
+Diego Muñoz,2000439850,0,0,1,0,0,1,0,0,1,0,0,0,0,0,hospitalet
+Juan Vizcarra,2000681579,0,0,0,0,0,1,0,0,1,0,0,0,0,0,hospitalet
+Edmilson Santos,83169922,0,0,0,0,0,0,0,0,1,0,0,1,0,0,hospitalet
+Juan Carlos Abengózar,2000570111,0,0,0,0,0,0,0,0,1,0,0,1,0,1,hospitalet
+Alejandro Ferre,2000569554,0,0,1,0,0,1,0,0,1,0,0,0,0,0,leonesa
+Jaime Reques,2000077283,0,0,0,0,0,0,0,1,1,1,0,0,1,0,leonesa
+Ander Martín,2000058172,0,0,0,0,0,0,0,1,1,0,1,0,0,0,leonesa
+Marcel Mehlem,92076601,0,0,0,0,0,1,0,0,1,0,0,0,0,0,leonesa
+Unai Rementeria,67246387,0,0,1,0,0,1,0,0,1,0,0,0,0,0,leonesa
+Roberto Olabe,67183968,0,0,0,0,0,1,0,0,1,1,0,1,1,0,leonesa
+Mario Fernández,2000439263,0,0,0,0,0,0,0,0,1,0,1,1,0,1,leonesa
+José María Garai,2000437777,0,0,0,0,0,0,0,0,1,0,0,0,0,0,leonesa
+Alejandro Aleñá,2000202600,0,0,0,1,0,0,0,0,1,1,0,0,0,0,leonesa
+Eneko Aguilar,67297733,0,1,0,0,1,0,0,1,1,0,1,0,0,0,lleida
+Juan Jesús Polo,2000194987,0,0,1,0,0,1,0,0,1,0,0,0,0,0,lleida
+Rayan Arkine,2000512092,0,0,0,0,0,0,0,1,1,0,1,0,0,1,lleida
+Amir Ibrahimovic,2000713014,0,0,0,0,0,1,0,0,1,0,0,0,0,0,lleida
+Pierre Martínez,2000201715,0,0,0,0,0,0,0,0,1,0,0,1,1,0,lleida
+Edu,2000713008,0,0,0,0,0,0,0,0,1,0,0,0,0,0,lleida
+Aitor Sicart,2000742072,0,0,0,0,0,0,0,0,1,0,0,1,0,0,lleida
+Juan Luis,2000664823,0,0,1,1,0,0,0,0,1,0,0,0,0,0,logrones
+Chisom Abdul,2000573849,0,0,0,0,0,0,0,0,1,0,1,1,0,1,logrones
+Carlos Dotor,67293616,0,0,0,0,0,0,0,0,1,0,0,1,0,0,logrones
+Higinio Zarzo,2000192890,0,0,0,0,0,0,0,0,1,0,1,1,0,1,logrones
+Yeray Zabalo,2000438356,0,1,0,0,0,1,0,0,1,0,0,0,0,0,logrones
+Ángel Alcalde,2000573845,0,0,0,0,0,1,0,0,1,0,0,0,0,0,logrones
+Toni Moya,67223078,0,0,0,0,0,1,0,1,1,0,0,0,0,0,logrones
+Diego Alende,67199156,0,1,1,0,0,1,0,0,1,0,0,0,0,0,mirandes
+Gideon Ikechukwu,2000683108,0,0,0,0,0,1,0,0,1,0,0,0,0,0,mirandes
+Agapito Torres,2000201479,0,0,1,0,0,1,0,0,1,0,0,0,0,0,mirandes
+Facundo Barboza,2000280204,0,0,0,0,0,0,0,1,1,0,1,0,0,0,mirandes
+Victor Cano,2000443364,0,0,0,0,0,0,0,0,1,0,0,1,1,0,mirandes
+Fede Vico,67142992,0,0,0,0,0,0,0,0,1,1,1,1,1,1,mirandes
+Antonio Díaz,2000569978,0,0,0,0,0,0,0,0,1,0,0,1,1,0,mirandes
+Víctor Meseguer,67278046,0,0,0,0,0,0,0,0,1,0,0,1,0,0,mirandes
+Juan Pablo,2000574059,0,0,0,0,0,0,0,0,1,0,0,1,0,0,numantia
+Bakary Daou,2000515163,0,0,1,0,0,1,0,0,1,0,0,0,0,0,numantia
+Julio Gracia,67237836,0,0,0,0,0,0,0,0,1,0,0,0,0,0,numantia
+Antonio Cotán,67157612,0,0,0,0,0,1,0,0,1,0,0,1,0,0,numantia
+Humberto Alonso,2000196451,0,0,0,0,0,0,0,0,1,0,0,1,0,0,numantia
+Castri,67294959,0,0,0,0,0,0,0,1,1,1,1,0,1,1,numantia
+Asier Pinillos,2000574064,0,0,0,0,0,1,0,1,1,0,0,0,0,0,numantia
+Juan José,2000200474,0,0,1,0,0,1,0,0,1,0,0,0,0,0,numantia
+Mikel Muñoz,2000710316,0,0,0,0,0,0,0,0,1,0,0,1,0,0,numantia
+Àlex Rico,67295759,0,0,0,0,0,1,0,0,1,0,0,0,0,0,olot
+Fran Manzanara,67211715,0,0,0,0,0,1,0,0,1,0,0,0,0,0,olot
+Omri Hemo,2000440760,0,0,0,0,0,0,0,1,1,0,0,1,0,0,olot
+Alberto Cañizares,2000571806,0,0,0,0,0,1,0,0,1,0,1,1,0,0,olot
+Miguel Fernández,67263770,0,0,0,0,0,0,0,1,1,0,1,0,1,0,olot
+Francisco Tena,67211549,0,0,1,0,0,1,0,0,1,0,0,0,0,0,olot
+Juan Carlos Chasco,2000574123,0,0,0,0,0,0,0,1,1,0,1,0,0,0,olot
+Nico Montoro,2000513279,0,0,1,0,0,1,0,0,1,0,0,0,0,0,ponferrada
+Ricki Alonso,2000444088,0,0,0,0,0,1,0,0,1,0,0,0,0,0,ponferrada
+Lucas Suárez,67291632,0,0,0,0,0,0,0,0,1,0,0,0,0,0,ponferrada
+Carlos Pérez,67277708,0,0,0,0,0,0,0,0,1,0,0,1,0,0,ponferrada
+Migue Fernández,2000513270,0,0,0,0,0,0,0,1,1,0,1,1,1,0,ponferrada
+Vojo Bešović,2000191918,0,0,1,0,0,1,0,0,1,0,0,0,0,0,ponferrada
+Alberto Jiménez,2000712145,0,0,0,0,0,0,0,0,1,0,0,1,0,1,ponferrada
+Gorka Merino,2000441525,0,1,1,0,0,1,0,0,1,0,0,0,0,0,ponferrada
+Mohamed Gallar,2000444071,0,0,1,0,0,1,0,0,1,0,0,0,0,0,pontevedra
+Álvaro Fortes,2000443308,0,0,1,0,0,1,0,0,1,0,0,0,0,0,pontevedra
+Pep,2000198640,0,0,1,0,0,1,0,0,1,0,0,0,0,0,pontevedra
+Isra Cano,2000065444,0,0,0,0,0,0,0,0,1,0,0,1,0,0,pontevedra
+Isaiah,2000194472,0,0,1,0,0,1,0,0,1,0,0,0,0,0,pontevedra
+Gorka Arrizabalaga,2000683360,0,0,0,0,0,0,0,0,1,0,0,1,0,0,pontevedra
+Álvaro Sánchez,2000685713,0,0,0,0,0,0,0,1,1,0,1,0,0,0,rsanb
+Francesco Zamuner,2000626880,0,0,1,0,0,1,0,0,1,0,0,1,0,0,rsanb
+Roberto van Brakel,2000572868,0,0,0,0,0,0,0,0,1,0,1,0,0,0,rsanb
+Antonio Navarro,2000571902,0,0,1,1,0,0,1,0,1,1,0,0,1,0,rsanb
+Vicente,2000571659,0,0,0,0,0,0,0,0,1,1,0,1,0,0,rsanb
+Víctor,2000440738,0,0,0,0,0,0,0,0,1,0,0,1,1,1,rsanb
+Gonzalo Cuadros,2000647507,0,0,0,0,0,1,0,0,1,0,0,1,0,0,rsanb
+Manuel Bosch,2000514796,0,0,0,0,0,0,0,0,1,0,0,1,0,0,rsanb
+Jannis Emde,2000504247,0,0,0,0,0,0,0,0,1,0,0,1,1,1,rsanb
+Saverio van Lopik,2000437951,0,0,0,0,0,0,0,1,1,0,0,1,0,0,rsanb
+Agustín Agirre,2000439259,0,0,1,0,0,1,0,0,1,0,0,1,0,0,rsanb
+Scott Diaz,2000706461,0,0,0,0,0,1,0,0,1,0,0,1,0,0,rsanb
+Marc Casadó,2000058198,0,0,0,0,0,1,0,0,1,0,0,1,0,0,rsantander
+Juan De Dios Navarro,2000196452,0,0,0,0,0,1,0,0,1,1,1,0,0,0,rsantander
+Esteban Herrera,2000663543,0,0,0,0,0,0,0,0,1,0,0,1,1,0,rsantander
+Gabriel Blanco,2000200470,0,0,0,0,0,0,0,0,1,0,1,1,0,0,rsantander
+Dani Villahermosa,2000049421,0,0,0,0,0,1,0,0,1,0,0,0,0,0,rsantander
+Álvaro Goikoetxea,2000198139,0,0,0,0,0,1,0,0,1,0,0,0,0,0,sabadell
+Aarón Rey,67228467,0,0,0,0,0,0,0,0,1,0,0,1,0,0,sabadell
+Yago Santiago,28129860,0,0,0,0,0,0,0,0,1,0,0,0,0,0,sabadell
+Antonio Manau,2000514807,0,0,1,0,0,1,0,0,1,0,0,0,0,0,sabadell
+Gerard,2000633086,0,0,1,0,0,1,0,0,1,0,0,0,0,0,sabadell
+David González,2000633083,0,0,0,0,0,1,0,0,1,0,0,1,0,0,sabadell
+Arnau Solà,67296656,0,0,1,1,0,1,1,0,1,1,0,0,0,0,tarragona
+Enrique Pedraza,2000194016,0,0,1,0,0,1,0,0,1,0,0,0,0,0,tarragona
+Nassim Ramdane,2000572058,0,0,0,0,0,0,0,0,1,0,1,0,0,1,tarragona
+Eneko Pérez,2000441528,0,0,1,0,0,1,0,0,1,0,0,0,0,0,tarragona
+Yassin Fekir,48036660,0,0,0,0,0,0,0,0,1,1,1,1,1,1,tarragona
+Eugeni,67169241,0,0,0,0,0,1,0,0,1,0,0,1,0,0,tarragona
+Adrián Capapé,2000439539,0,0,0,0,0,0,0,0,1,0,0,1,0,0,zaragozab
+Serafín Cabezas,2000629922,0,0,0,0,0,0,0,0,1,0,0,1,0,0,zaragozab
+Ramón Alfaro,2000511082,0,1,1,0,1,0,0,0,1,0,1,0,0,0,zaragozab
+Biel Cárdenas,2000629927,0,0,0,0,0,1,0,0,1,0,0,0,0,0,zaragozab
+Iván Romero,2000629923,0,0,1,0,0,1,0,0,1,0,0,0,0,0,zaragozab
+Félix Artigas,2000511083,0,0,0,0,0,0,0,0,1,1,0,0,1,0,zaragozab
+Juan Manuel Mejías,2000442677,0,0,1,0,0,1,0,0,1,0,0,0,0,0,zaragozab
+Ismael Bermudo,2000439534,0,0,1,0,0,1,0,0,1,0,0,0,0,0,zaragozab
+Andrés Hernández,2000439538,0,0,1,0,0,1,0,0,1,0,0,0,0,0,zaragozab
+Juma Haule,2000570456,0,0,0,0,0,0,0,0,1,0,1,1,0,1,zaragozab

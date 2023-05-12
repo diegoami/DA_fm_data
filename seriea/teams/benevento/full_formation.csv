@@ -1,0 +1,112 @@
+Match,Player,UID
+#GK,Andrea Beretta,2000323828
+#GK,Gianluigi Fornari,2000199598
+#GK,Kamil Broda,96129081
+#GK,Alessio Furlanetto,43425157
+#GK,Mauro Brizi,2000272649
+#GK,Massimo Todaro,2000437225
+#GK,Roberto Taliento,43252472
+#GK,Leonardo Loria,43269230
+#GK,Cláudio Marcos,2000410741
+#DR,Tommaso Risaliti,2000198565
+#DR,Antonio Buzzi,2000193933
+#DR,Carlos Rojas,2000561489
+#DR,Raffaele Civita,2000437228
+#DR,Claud Adjapong,43202413
+#DR,Amir Rrahmani,11023165
+#DR,Egidio Guidi,2000190821
+#DR,Vasyl Lysenko,2000660045
+#DR,Enrico Del Prato,43252473
+#DR,Chancel Mbemba,18057323
+#DC,Tommaso Risaliti,2000198565
+#DC,Antonio Buzzi,2000193933
+#DC,Kalidou Koulibaly,85051083
+#DC,Amir Rrahmani,11023165
+#DC,Vasyl Lysenko,2000660045
+#DC,Enrico Del Prato,43252473
+#DC,Lennart Czyborra,91166521
+#DC,Chancel Mbemba,18057323
+#DC,Jonathan Augustinsson,93051231
+#DC,Daniele Rugani,43083931
+#DL,Tommaso Risaliti,2000198565
+#DL,Amir Rrahmani,11023165
+#DL,Enrico Del Prato,43252473
+#DL,Lennart Czyborra,91166521
+#DL,Jonathan Augustinsson,93051231
+#WBR,Carlos Rojas,2000561489
+#WBR,Fidel Blasco,2000573382
+#WBR,Raffaele Civita,2000437228
+#WBR,Claud Adjapong,43202413
+#WBR,Enrico Del Prato,43252473
+#WBR,Chancel Mbemba,18057323
+#DM,Antonio Buzzi,2000193933
+#DM,Egidio Guidi,2000190821
+#DM,Mario Liccardo,2000437227
+#DM,Chancel Mbemba,18057323
+#WBL,Lennart Czyborra,91166521
+#WBL,Jonathan Augustinsson,93051231
+#MR,Giorgio Del Nero,2000569080
+#MR,Carlos Rojas,2000561489
+#MR,Fidel Blasco,2000573382
+#MR,Raffaele Civita,2000437228
+#MR,Claud Adjapong,43202413
+#MR,Enrico Del Prato,43252473
+#MR,Nicolò Trombino,2000324477
+#MR,Amath N'Diaye,67213756
+#MR,Cristian Pavón,14083972
+#MC,Mario Sacchi,2000628256
+#MC,Ding Lei,2000566986
+#MC,Alessandro Cudicio,2000436500
+#MC,José Daniel Lafuente,2000435809
+#MC,Antonio Buzzi,2000193933
+#MC,Cristian Ferrari,2000570040
+#MC,Egidio Guidi,2000190821
+#MC,Davide Addis,2000199603
+#MC,Mario Liccardo,2000437227
+#MC,Enrico Del Prato,43252473
+#MC,Daniele De Filippis,2000327509
+#MC,Fabián Buonanno,2000273255
+#MC,Pablo Aránguiz,75036973
+#ML,Francesco Boron,2000510618
+#ML,Alessandro Cudicio,2000436500
+#ML,Matteo Bernard,2000189331
+#ML,Davide Addis,2000199603
+#ML,Lennart Czyborra,91166521
+#ML,Daniele De Filippis,2000327509
+#ML,Cristian Pavón,14083972
+#AMR,Giorgio Del Nero,2000569080
+#AMR,José Daniel Lafuente,2000435809
+#AMR,Carlos Rojas,2000561489
+#AMR,Fidel Blasco,2000573382
+#AMR,Raffaele Civita,2000437228
+#AMR,Nicolò Trombino,2000324477
+#AMR,Amath N'Diaye,67213756
+#AMR,Cristian Pavón,14083972
+#AMR,Pablo Aránguiz,75036973
+#AMC,Mario Sacchi,2000628256
+#AMC,Ding Lei,2000566986
+#AMC,José Daniel Lafuente,2000435809
+#AMC,Matteo Bernard,2000189331
+#AMC,Cristian Ferrari,2000570040
+#AMC,Giacomo Raspadori,43316850
+#AMC,Nicolò Trombino,2000324477
+#AMC,Amath N'Diaye,67213756
+#AMC,Fabián Buonanno,2000273255
+#AMC,Pablo Aránguiz,75036973
+#AML,Francesco Boron,2000510618
+#AML,Alessandro Cudicio,2000436500
+#AML,José Daniel Lafuente,2000435809
+#AML,Matteo Bernard,2000189331
+#AML,Giacomo Raspadori,43316850
+#AML,Daniele De Filippis,2000327509
+#AML,Amath N'Diaye,67213756
+#AML,Cristian Pavón,14083972
+#AML,Fabián Buonanno,2000273255
+#AML,Pablo Aránguiz,75036973
+#STC,Ding Lei,2000566986
+#STC,Francesco Boron,2000510618
+#STC,Matteo Canini,2000437226
+#STC,Cristian Ferrari,2000570040
+#STC,Giacomo Raspadori,43316850
+#STC,Amath N'Diaye,67213756
+#STC,Cristian Pavón,14083972

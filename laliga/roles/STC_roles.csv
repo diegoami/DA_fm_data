@@ -1,0 +1,122 @@
+Player,UID,GK,DR,DC,DL,WBR,DM,WBL,MR,MC,ML,AMR,AMC,AML,STC,Team
+Borja Sainz,67277845,0,0,0,0,0,0,0,1,0,1,1,0,0,1,alaves
+Xabier Garmendia,2000631378,0,0,0,0,0,0,0,0,1,0,0,0,0,1,alaves
+Ander Imaz,2000439533,0,0,0,0,0,0,0,0,0,1,0,0,1,1,alaves
+Rafa Mir,67221051,0,0,0,0,0,0,0,0,0,0,1,1,1,1,alaves
+Alexander Sørloth,53063430,0,0,0,0,0,0,0,0,0,0,0,1,0,1,alaves
+Lirim Kastrati,24058534,0,0,0,0,0,0,0,1,0,1,1,0,1,1,alaves
+Joseph Ngwem,2000202611,0,0,0,0,0,0,0,0,0,0,1,0,0,1,alaves
+Karim El-Tayeb,2000068663,0,0,0,0,0,0,0,0,0,0,0,0,0,1,alaves
+Raúl De Tomás,67156425,0,0,0,0,0,0,0,0,0,0,1,1,1,1,albacete
+Bright Adjei,2000660374,0,0,0,0,0,0,0,0,0,0,0,1,0,1,albacete
+Chema Nuñez,67232678,0,0,0,0,0,0,0,0,1,0,1,1,1,1,albacete
+Ezequiel Aranda,14246685,0,0,0,0,0,0,0,0,0,0,0,0,0,1,albacete
+João Félix,83169822,0,0,0,0,0,0,0,0,0,0,1,1,1,1,amadrd
+Oğuz Civelek,2000232509,0,0,0,0,0,0,0,0,0,0,0,0,0,1,amadrd
+Pierre Dwomoh,2000006277,0,0,0,0,0,0,0,0,1,0,1,1,0,1,amadrd
+Lorenzo Granelli,2000437491,0,0,0,0,0,0,0,0,0,0,0,0,0,1,amadrd
+Rayan Cherki,49056279,0,0,0,0,0,0,0,0,0,1,1,1,1,1,barc
+Radovan Drakulić,2000211170,0,0,0,0,0,0,0,0,0,0,0,0,0,1,barc
+Péricles,2000410450,0,0,0,0,0,0,0,0,0,0,1,0,0,1,barc
+Pierre Fournier,2000435814,0,0,0,0,0,0,0,0,0,1,1,0,1,1,barc
+Dejan Kulusevski,43295814,0,0,0,0,0,0,0,1,1,0,1,1,0,1,barc
+Gabriel Jesus,19220266,0,0,0,0,0,0,0,0,0,0,1,1,1,1,barc
+Rodrygo,19306929,0,0,0,0,0,0,0,1,0,1,1,0,1,1,barc
+Harry Kane,28049320,0,0,0,0,0,0,0,0,0,0,0,1,1,1,barc
+Franck Lacroix,2000192663,0,0,0,0,0,0,0,0,0,0,1,0,1,1,barc
+Gennady Korshunov,2000238109,0,0,0,0,0,0,0,0,1,0,0,1,0,1,barc
+Carlos Bidaurrázaga,2000573859,0,0,0,0,0,0,0,1,0,0,1,0,1,1,bilbao
+Romain Bertrand,2000438620,0,0,0,0,0,0,0,0,1,0,1,0,0,1,bilbao
+Javier Arrue,2000438617,0,0,0,0,0,0,0,0,0,0,1,0,0,1,bilbao
+Mikel Garai,2000438623,0,0,0,0,0,0,0,0,0,0,1,1,0,1,bilbao
+Jon Magunazelaia,2000438619,0,0,0,0,0,0,0,0,1,1,0,1,1,1,bilbao
+Henry Onyekuru,18093594,0,0,0,0,0,0,0,0,0,1,1,0,1,1,cadiz
+Toni Dorado,2000197158,0,0,0,0,0,0,0,0,1,0,0,1,0,1,cadiz
+Terry Ashton,2000505936,0,0,0,0,0,0,0,0,0,0,1,0,0,1,cadiz
+Toni Martínez,67216151,0,0,0,0,0,0,0,0,0,0,0,0,0,1,cadiz
+Yesinguer Vinasco,2000415655,0,0,0,0,0,0,0,0,1,0,0,1,0,1,cadiz
+Juanmi Ávila,2000441358,0,0,0,0,0,0,0,0,0,0,0,0,0,1,cadiz
+Ion Etxabe,2000514435,0,0,0,0,0,0,0,0,0,0,0,0,0,1,cadiz
+Jose Antonio Molina,2000571459,0,0,0,0,0,0,0,0,0,0,1,1,0,1,cadiz
+Saúl Rodríguez,2000440182,0,0,0,0,0,0,0,0,0,1,1,1,1,1,coruna
+Tòfol Montiel,43459237,0,0,0,0,0,0,0,0,0,0,1,1,1,1,coruna
+Alberto Barace,2000663353,0,0,0,0,0,0,0,0,0,0,1,0,0,1,coruna
+Iago Salamanca,2000710728,0,0,0,0,0,0,0,0,0,0,0,1,0,1,coruna
+Nabil Touaizi,28113829,0,0,0,0,0,0,0,0,0,0,1,1,1,1,coruna
+Joaquín Correa,14042683,0,0,0,0,0,0,0,0,1,1,1,1,1,1,coruna
+Ricardo,2000443686,0,0,0,0,0,0,0,0,0,0,0,0,1,1,coruna
+David,2000441683,0,0,0,0,0,0,0,0,0,0,0,1,0,1,espanyol
+Ricky-Jade Jones,29236380,0,0,0,0,0,0,0,0,0,0,1,0,1,1,espanyol
+José Luis Ruano,2000572819,0,0,0,0,0,0,0,0,0,0,0,0,1,1,espanyol
+Iván Martínez,2000510865,0,0,0,0,1,0,0,0,1,0,1,0,0,1,granada
+Moussa Djenepo,6601602,0,0,0,0,0,0,0,1,0,1,1,1,1,1,granada
+Luis Suárez,76046285,0,0,0,0,0,0,0,0,0,0,0,0,1,1,granada
+Jose Luis,2000438355,0,0,0,0,0,0,0,0,1,0,0,1,0,1,granada
+Antonio Javier García,2000571328,0,0,0,0,0,0,0,0,0,0,1,0,0,1,granada
+Jesse Lingard,28047560,0,0,0,0,0,0,0,1,1,1,1,1,1,1,granada
+Emiel Janssens-Callewaert,2000189953,0,0,0,0,0,0,0,0,0,0,1,0,0,1,laspalmas
+Carlos Hernandez,2000511264,0,0,0,0,0,0,0,0,0,0,1,0,1,1,laspalmas
+Anders Nygaard,2000569028,0,0,0,0,0,0,0,0,0,0,1,1,0,1,laspalmas
+Marian Vasilache,2000328740,0,0,0,0,0,0,0,0,0,0,0,0,0,1,laspalmas
+Isaiah Álvarez,2000630129,0,0,0,0,0,0,0,0,0,1,0,0,1,1,laspalmas
+Ángel Cabello,2000438822,0,0,0,0,0,0,0,0,0,0,1,1,0,1,leganes
+Olaus Skarsem,89051875,0,0,0,0,0,0,0,1,1,0,1,1,1,1,leganes
+Javier Pascua,2000573866,0,0,0,0,0,0,0,0,0,1,0,1,1,1,leganes
+Nils Mortimer,67265795,0,0,0,0,0,0,0,1,0,0,1,1,1,1,leganes
+Fran López,67279609,0,0,0,0,0,0,0,0,0,0,0,0,0,1,leganes
+Álvaro Santamaría,67298126,0,0,0,0,0,0,0,0,0,0,0,0,0,1,leganes
+Abel Angulo,2000438635,0,0,0,0,0,1,0,0,1,0,0,1,0,1,realhisp
+Atanas Yordanov,2000215422,0,0,0,0,0,0,0,0,0,0,0,0,0,1,realhisp
+Alfonso Miranda,2000629593,0,0,0,0,0,0,0,0,1,0,0,1,0,1,realhisp
+Giovanni Cabrera,2000439549,0,0,0,0,0,0,0,0,0,0,1,0,0,1,realhisp
+Ignatius Ganago,49045927,0,0,0,0,0,0,0,0,0,0,0,0,0,1,realhisp
+Marc Trives,2000439546,0,0,0,0,0,0,0,0,0,0,0,1,0,1,realhisp
+Kylian Mbappé,85139014,0,0,0,0,0,0,0,0,0,0,1,0,1,1,rmdrd
+Raheem Sterling,28054109,0,0,0,0,0,0,0,1,0,1,1,1,1,1,rmdrd
+Lê,2000410610,0,0,0,0,0,0,0,0,0,0,1,0,0,1,rmdrd
+Vinícius Júnior,19302146,0,0,0,0,0,0,0,0,0,1,1,0,1,1,rmdrd
+Boris Peters,2000506902,0,0,0,0,0,0,0,0,0,0,1,0,0,1,rmdrd
+Odsonne Edouard,48036880,0,0,0,0,0,0,0,0,0,0,1,1,1,1,rmdrd
+Roberto Bonilla,2000569765,0,0,0,0,0,0,0,0,0,0,1,0,1,1,rmdrd
+Luka Bransteter,2000054638,0,0,0,0,0,0,0,0,0,0,1,0,0,1,rsana
+Adam Hlozek,31041522,0,0,0,0,0,0,0,0,0,0,1,0,1,1,rsana
+Tibo De Vos,2000663034,0,0,0,0,0,0,0,0,0,0,1,0,0,1,rsana
+Mikel Oyarzábal,67220143,0,0,0,0,0,0,0,0,0,0,1,1,1,1,rsana
+Gabriel Martinelli,19351309,0,0,0,0,0,0,0,0,0,0,1,1,1,1,rsana
+Gaetano Oristanio,43425611,0,0,0,0,0,0,0,0,1,0,0,1,0,1,rsana
+Felipe,2000510074,0,0,0,0,0,0,0,1,0,0,1,0,0,1,rsana
+Munir,67174735,0,0,0,0,0,0,0,0,0,1,1,1,1,1,sevilla
+Gonçalo Ramos,83209468,0,0,0,0,0,0,0,0,1,0,0,1,0,1,sevilla
+Rogelinho,2000439844,0,0,0,0,0,0,0,1,0,0,1,0,0,1,sevilla
+Lucas Ocampos,14031132,0,0,0,0,0,0,0,0,0,1,1,1,1,1,sevilla
+Rasmus Højlund,27160181,0,0,0,0,0,0,0,0,0,0,0,0,0,1,sevilla
+Alvaro,2000510252,0,0,0,0,0,0,0,0,0,0,0,1,0,1,sevilla
+Bartol Barišić,24065111,0,0,0,0,0,0,0,0,0,0,0,0,0,1,valencia
+Gabriel Jesus,19220266,0,0,0,0,0,0,0,0,0,0,1,1,1,1,valencia
+Nico Serrano,67295206,0,0,0,0,0,0,0,1,0,1,1,1,1,1,valencia
+Joaquín Salgado,2000272916,0,0,0,0,0,0,0,0,0,0,0,0,0,1,valencia
+Alberto Leon Fernández,2000631656,0,0,0,0,0,0,0,1,0,0,1,0,0,1,vallecano
+Yann Karamoh,85144982,0,0,0,0,0,0,0,1,0,1,1,0,1,1,vallecano
+Roberto,2000440887,0,0,0,0,0,0,0,0,0,0,1,1,0,1,vallecano
+Eugenio,2000632614,0,0,0,0,0,0,0,1,0,0,1,0,0,1,vallecano
+Juan Artola,67260216,0,0,0,0,0,0,0,1,1,1,1,1,1,1,vallecano
+Mama Baldé,55070279,0,1,0,0,0,0,0,1,0,0,1,0,1,1,vallecano
+Julio Villalba,79028819,0,0,0,0,0,0,0,0,0,0,1,1,0,1,vallecano
+Mohamed Cissé,2000565877,0,0,0,0,0,0,0,0,0,0,1,0,0,1,vallecano
+Christian Kouamé,43201838,0,0,0,0,0,0,0,0,0,0,1,0,1,1,vigo
+Yago Freitas,2000570843,0,0,0,0,0,0,0,0,0,0,1,1,1,1,vigo
+Dawid Kownacki,96059679,0,0,0,0,0,0,0,1,0,1,1,0,1,1,vigo
+Reiss Nelson,28107919,0,0,0,0,0,0,0,1,0,0,1,0,1,1,vigo
+Faustino,2000438001,0,0,0,0,0,0,0,0,0,0,1,1,0,1,villareal
+Mohamed Cisse,2000509917,0,0,0,0,0,0,0,0,1,0,1,1,0,1,villareal
+Fernando Niño,67258829,0,0,0,0,0,0,0,0,0,0,0,0,0,1,villareal
+Yesinguer Vinasco,2000415655,0,0,0,0,0,0,0,0,1,0,0,1,0,1,villareal
+Álex,2000509919,0,0,0,0,0,0,0,1,0,0,1,0,0,1,villareal
+Ismaïla Sarr,48042766,0,0,0,0,0,0,0,1,0,0,1,0,1,1,zaragoza
+Dídac,2000437768,0,0,0,0,0,1,0,0,1,0,0,1,0,1,zaragoza
+Jorge Cañadas,2000511078,0,0,0,0,0,0,0,0,0,0,0,1,0,1,zaragoza
+Fernando Silva,2000439540,0,0,0,0,0,0,0,1,0,0,1,0,0,1,zaragoza
+Luis Carbonell,95078291,0,0,0,0,0,0,0,0,0,1,1,0,1,1,zaragoza
+Jesus Carrasco,2000439537,0,0,0,0,0,0,0,0,0,1,0,1,1,1,zaragoza
+Ander Imaz,2000439533,0,0,0,0,0,0,0,0,0,1,0,0,1,1,zaragoza
+Jorge Tato,2000571897,0,0,0,0,0,0,0,0,0,0,1,0,0,1,zaragoza

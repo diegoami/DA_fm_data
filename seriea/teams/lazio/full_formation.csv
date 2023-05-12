@@ -1,0 +1,122 @@
+Match,Player,UID
+#GK,Danilo Rizzo,2000567633
+#GK,Davide Costarella,2000512160
+#GK,Michele Di Gregorio,43161669
+#GK,Federico Brancolini,43357008
+#GK,Thomas Strakosha,43115047
+#DR,Eirik Haugland,2000555555
+#DR,Riccardo Sottil,43270713
+#DR,Anyelo Oropesa,2000606155
+#DR,Josha Vagnoman,91184445
+#DR,Gabriele Zappa,43272248
+#DC,Eirik Haugland,2000555555
+#DC,Gaëtan Redon,2000433840
+#DC,Luiz Felipe,19225765
+#DC,Klajdi Ferati,2000567635
+#DC,Niklas Süle,91107360
+#DC,Anyelo Oropesa,2000606155
+#DC,Davide Bettella,43316726
+#DC,Roque Rébora,2000285968
+#DC,Josha Vagnoman,91184445
+#DC,Gabriele Zappa,43272248
+#DL,Eirik Haugland,2000555555
+#DL,Fulvio Colacicco,2000191153
+#DL,Robin Gosens,37041773
+#DL,Roque Rébora,2000285968
+#DL,Josha Vagnoman,91184445
+#WBR,Riccardo Sottil,43270713
+#WBR,Josha Vagnoman,91184445
+#WBR,Gabriele Zappa,43272248
+#DM,Leroy Moonen,2000438559
+#DM,Gaëtan Redon,2000433840
+#DM,Vitalijs Cvetkovs,2000507392
+#DM,Donny van de Beek,37048153
+#DM,Kevin De Bruyne,18004457
+#DM,Roque Rébora,2000285968
+#DM,Guillermo Vaccarezza,2000489469
+#WBL,Fulvio Colacicco,2000191153
+#WBL,Robin Gosens,37041773
+#WBL,Josha Vagnoman,91184445
+#MR,Stavros Kallitsounakis,2000232881
+#MR,Raniero Cini,2000567637
+#MR,Miel Devos,2000199510
+#MR,Tahith Chong,37058361
+#MR,Kevin De Bruyne,18004457
+#MR,Riccardo Sottil,43270713
+#MR,Gustavo Fernández,2000539166
+#MR,Ferran Torres,89056845
+#MR,Christopher Nkunku,85140301
+#MR,Mohamed Ihattaren,37073834
+#MR,Gabriele Zappa,43272248
+#MC,Leroy Moonen,2000438559
+#MC,Gaëtan Redon,2000433840
+#MC,Milton Mijoch,2000272968
+#MC,Stavros Kallitsounakis,2000232881
+#MC,Klajdi Ferati,2000567635
+#MC,Vitalijs Cvetkovs,2000507392
+#MC,Miel Devos,2000199510
+#MC,Donny van de Beek,37048153
+#MC,Kevin De Bruyne,18004457
+#MC,Gustavo Fernández,2000539166
+#MC,Christopher Nkunku,85140301
+#MC,Mohamed Ihattaren,37073834
+#MC,Roque Rébora,2000285968
+#MC,Guillermo Vaccarezza,2000489469
+#ML,Milton Mijoch,2000272968
+#ML,Fulvio Colacicco,2000191153
+#ML,Klajdi Ferati,2000567635
+#ML,Donyell Malen,37055844
+#ML,Robin Gosens,37041773
+#ML,Kevin De Bruyne,18004457
+#ML,Riccardo Sottil,43270713
+#ML,Christopher Nkunku,85140301
+#ML,Mohamed Ihattaren,37073834
+#AMR,Milton Mijoch,2000272968
+#AMR,Stavros Kallitsounakis,2000232881
+#AMR,Raniero Cini,2000567637
+#AMR,Mauro Cirelli,2000435220
+#AMR,Marcus Andersson,2000397891
+#AMR,Marcus Andersson,2000397735
+#AMR,Tahith Chong,37058361
+#AMR,Donyell Malen,37055844
+#AMR,Kevin De Bruyne,18004457
+#AMR,Daniel Lamas,2000568699
+#AMR,Franco Ferraro,2000325869
+#AMR,Riccardo Sottil,43270713
+#AMR,John Gil,2000562142
+#AMR,Ferran Torres,89056845
+#AMR,Mohamed Ihattaren,37073834
+#AMC,Milton Mijoch,2000272968
+#AMC,Stavros Kallitsounakis,2000232881
+#AMC,Vitalijs Cvetkovs,2000507392
+#AMC,Miel Devos,2000199510
+#AMC,Tahith Chong,37058361
+#AMC,Donny van de Beek,37048153
+#AMC,Kevin De Bruyne,18004457
+#AMC,John Gil,2000562142
+#AMC,Gustavo Fernández,2000539166
+#AMC,Christopher Nkunku,85140301
+#AMC,Mohamed Ihattaren,37073834
+#AMC,Guillermo Vaccarezza,2000489469
+#AML,Milton Mijoch,2000272968
+#AML,Stavros Kallitsounakis,2000232881
+#AML,Raniero Cini,2000567637
+#AML,Mauro Cirelli,2000435220
+#AML,Tahith Chong,37058361
+#AML,Donyell Malen,37055844
+#AML,Daniel Lamas,2000568699
+#AML,Riccardo Sottil,43270713
+#AML,Ferran Torres,89056845
+#AML,Christopher Nkunku,85140301
+#AML,Mohamed Ihattaren,37073834
+#STC,Mauro Cirelli,2000435220
+#STC,Marcus Andersson,2000397891
+#STC,Marcus Andersson,2000397735
+#STC,Miel Devos,2000199510
+#STC,Tahith Chong,37058361
+#STC,Donyell Malen,37055844
+#STC,Daniel Lamas,2000568699
+#STC,Franco Ferraro,2000325869
+#STC,Riccardo Sottil,43270713
+#STC,John Gil,2000562142
+#STC,Ferran Torres,89056845

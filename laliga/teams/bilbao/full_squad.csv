@@ -1,0 +1,61 @@
+Match,Player,UID
+#GK,Diego Aizpurua,2000193388
+#GK,Arkaitz Jauregi,2000350400
+#DR,Asier Grande,2000048078
+#DR,Yeray,67192475
+#DR,Unai Núñez,67214595
+#DR,Julen Letamendia,2000570277
+#DC,Yeray,67192475
+#DC,Unai Núñez,67214595
+#DC,Josema,2000682315
+#DC,Unai Vencedor,67260207
+#DC,Íñigo Merino,2000442705
+#DL,Julen Letamendia,2000570277
+#DL,Oier López,67277836
+#DL,Íñigo Merino,2000442705
+#WBR,Asier Grande,2000048078
+#DM,Julen Letamendia,2000570277
+#DM,Josema,2000682315
+#DM,Unai Vencedor,67260207
+#DM,Ander Guevara,67246381
+#DM,Íñigo Merino,2000442705
+#WBL,Julen Letamendia,2000570277
+#WBL,Oier López,67277836
+#MR,Carlos Bidaurrázaga,2000573859
+#MR,Fran Alonso,2000570282
+#MR,Javier Karanka,2000193733
+#MC,Oihan Sancet,67260204
+#MC,Unai Vencedor,67260207
+#MC,Íñigo Herrera,2000510687
+#MC,Romain Bertrand,2000438620
+#MC,Fran Alonso,2000570282
+#MC,Aimar Oroz,67276375
+#MC,Ander Guevara,67246381
+#MC,Javier Karanka,2000193733
+#MC,Jon Magunazelaia,2000438619
+#ML,Íñigo Herrera,2000510687
+#ML,Aimar Oroz,67276375
+#ML,Jon Magunazelaia,2000438619
+#AMR,Carlos Bidaurrázaga,2000573859
+#AMR,Íñigo Herrera,2000510687
+#AMR,Romain Bertrand,2000438620
+#AMR,Javier Arrue,2000438617
+#AMR,Fran Alonso,2000570282
+#AMR,Aimar Oroz,67276375
+#AMR,Mikel Garai,2000438623
+#AMR,Javier Karanka,2000193733
+#AMC,Oihan Sancet,67260204
+#AMC,Fran Alonso,2000570282
+#AMC,Aimar Oroz,67276375
+#AMC,Mikel Garai,2000438623
+#AMC,Jon Magunazelaia,2000438619
+#AML,Carlos Bidaurrázaga,2000573859
+#AML,Íñigo Herrera,2000510687
+#AML,Aimar Oroz,67276375
+#AML,Javier Karanka,2000193733
+#AML,Jon Magunazelaia,2000438619
+#STC,Carlos Bidaurrázaga,2000573859
+#STC,Romain Bertrand,2000438620
+#STC,Javier Arrue,2000438617
+#STC,Mikel Garai,2000438623
+#STC,Jon Magunazelaia,2000438619

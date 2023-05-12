@@ -1,0 +1,180 @@
+Player,UID,GK,DR,DC,DL,WBR,DM,WBL,MR,MC,ML,AMR,AMC,AML,STC,Team
+Marco Cuneo,2000572664,0,0,0,0,0,0,0,0,1,0,0,0,1,1,arezzo
+Diferdio Misidjan,37084985,0,1,0,1,1,0,1,0,0,0,0,0,1,0,arezzo
+Corrado Redaelli,2000507385,0,0,0,0,0,0,0,0,0,1,0,0,1,0,arezzo
+Manolo Portanova,43297054,0,0,0,0,0,1,0,0,1,0,0,1,1,0,arezzo
+Samuele Bonaldo,2000325145,0,0,0,0,0,0,0,0,1,0,1,1,1,0,arezzo
+Emiliano Sacco,2000324227,0,0,0,0,0,0,0,0,1,0,1,1,1,0,arezzo
+Näis Djouahra,49037903,0,0,0,0,0,0,0,0,0,1,0,1,1,0,arezzo
+Yari Diamanti,2000572662,0,0,0,0,0,0,0,0,0,0,1,0,1,1,arezzo
+Alexandros Goublias,2000234468,0,0,0,0,0,0,0,0,1,0,1,1,1,0,atalanta
+Yannick Ako,2000186992,0,0,0,0,0,0,0,0,0,1,0,0,1,1,atalanta
+Luca Cellino,2000566956,0,0,0,0,0,0,0,0,1,1,0,0,1,0,atalanta
+Oscar Barreto,2000541646,0,0,0,0,0,0,0,0,0,0,1,1,1,1,atalanta
+Dušan Milovac,2000211178,0,0,0,0,0,0,0,0,0,1,0,0,1,0,atalanta
+Emanuel Vignato,43296186,0,0,0,0,0,0,0,1,0,0,1,1,1,0,atalanta
+Kasper Dolberg,27102380,0,0,0,0,0,0,0,0,0,1,1,1,1,1,atalanta
+Pervis Estupiñán,86045976,0,0,0,1,0,0,1,0,0,1,0,0,1,0,atalanta
+Francesco Boron,2000510618,0,0,0,0,0,0,0,0,0,1,0,0,1,1,benevento
+Alessandro Cudicio,2000436500,0,0,0,0,0,0,0,0,1,1,0,0,1,0,benevento
+José Daniel Lafuente,2000435809,0,0,0,0,0,0,0,0,1,0,1,1,1,0,benevento
+Matteo Bernard,2000189331,0,0,0,0,0,0,0,0,0,1,0,1,1,0,benevento
+Giacomo Raspadori,43316850,0,0,0,0,0,0,0,0,0,0,0,1,1,1,benevento
+Daniele De Filippis,2000327509,0,0,0,0,0,0,0,0,1,1,0,0,1,0,benevento
+Amath N'Diaye,67213756,0,0,0,0,0,0,0,1,0,0,1,1,1,1,benevento
+Cristian Pavón,14083972,0,0,0,0,0,0,0,1,0,1,1,0,1,1,benevento
+Fabián Buonanno,2000273255,0,0,0,0,0,0,0,0,1,0,0,1,1,0,benevento
+Pablo Aránguiz,75036973,0,0,0,0,0,0,0,0,1,0,1,1,1,0,benevento
+Martin Rusnak,2000290938,0,0,0,0,0,0,0,0,1,0,1,1,1,0,bologna
+Connor Barron,2000483573,0,0,0,0,0,0,0,0,0,1,0,0,1,1,bologna
+Jonathan David,18108540,0,0,0,0,0,0,0,0,0,0,1,1,1,1,bologna
+Francesco Bruschi,2000507006,0,0,0,0,0,0,0,0,0,1,0,0,1,0,bologna
+Emir Lilaj,2000434777,0,0,0,0,0,0,0,1,0,0,1,1,1,1,bologna
+Jesús María Sola,2000197806,0,0,0,0,0,0,0,0,0,1,0,0,1,1,bologna
+Mario Marco,2000489132,0,0,0,0,0,0,0,0,0,0,1,0,1,1,bologna
+Tobias Christensen,53138127,0,0,0,0,0,0,0,0,1,0,1,1,1,1,bologna
+Agustín Urzi,14219443,0,0,0,0,0,0,0,1,0,1,1,0,1,0,bologna
+Pablo García,67288495,0,0,0,1,0,0,1,0,0,1,0,0,1,0,bologna
+Alfonso Pedraza,67212046,0,0,0,1,0,0,1,0,0,1,0,0,1,0,fiorentina
+Elías Cabrera,14222117,0,0,0,0,0,0,0,0,1,0,0,1,1,0,fiorentina
+Andrea Formisano,2000191459,0,0,0,0,0,0,0,0,1,1,0,0,1,0,fiorentina
+Gonçalo Guedes,55041710,0,0,0,0,0,0,0,1,0,1,1,1,1,1,fiorentina
+Calvin Stengs,37059574,0,0,0,0,0,0,0,1,1,0,1,1,1,0,fiorentina
+Walter Zampina,2000507379,0,0,0,0,0,0,0,0,0,1,0,0,1,1,fiorentina
+Nelson Niz,2000272945,0,0,0,0,0,0,0,0,0,0,0,1,1,1,fiorentina
+Krystian Palacz,96159314,0,0,0,1,0,0,1,0,0,1,0,0,1,0,fiorentina
+Marcus Edwards,28106878,0,0,0,0,0,0,0,1,1,0,1,1,1,0,fiorentina
+Pino Torrini,2000567624,0,0,0,0,0,0,0,0,1,1,0,0,1,0,fiorentina
+Olexandr Zinchenko,71081391,0,0,0,1,0,0,1,1,1,1,1,1,1,0,inter
+Ryan Gravenberch,37071197,0,0,0,0,0,1,0,0,1,0,0,1,1,0,inter
+Manuel Oliveira,2000434824,0,0,0,0,0,0,0,0,0,1,1,0,1,1,inter
+Kenedy,2000410526,0,1,0,1,0,0,0,0,0,0,0,0,1,0,inter
+Carlos Soler,67196204,0,0,0,0,1,1,0,1,1,0,1,1,1,0,inter
+Nico Williams,67276230,0,0,0,0,0,0,0,1,0,1,1,0,1,1,inter
+Jhonatan Mejía,2000415671,0,0,0,0,0,0,0,0,1,0,0,1,1,0,inter
+Abdulaziz Yılmazer,2000433229,0,0,0,0,0,0,1,0,0,1,0,0,1,0,inter
+Youssoufa Moukoko,2000074825,0,0,0,0,0,0,0,0,0,0,1,0,1,1,inter
+Thiago Almada,14172522,0,0,0,0,0,0,0,0,1,0,1,1,1,1,inter
+Milton Mijoch,2000272968,0,0,0,0,0,0,0,0,1,1,1,1,1,0,lazio
+Stavros Kallitsounakis,2000232881,0,0,0,0,0,0,0,1,1,0,1,1,1,0,lazio
+Raniero Cini,2000567637,0,0,0,0,0,0,0,1,0,0,1,0,1,0,lazio
+Mauro Cirelli,2000435220,0,0,0,0,0,0,0,0,0,0,1,0,1,1,lazio
+Tahith Chong,37058361,0,0,0,0,0,0,0,1,0,0,1,1,1,1,lazio
+Donyell Malen,37055844,0,0,0,0,0,0,0,0,0,1,1,0,1,1,lazio
+Daniel Lamas,2000568699,0,0,0,0,0,0,0,0,0,0,1,0,1,1,lazio
+Riccardo Sottil,43270713,0,1,0,0,1,0,0,1,0,1,1,0,1,1,lazio
+Ferran Torres,89056845,0,0,0,0,0,0,0,1,0,0,1,0,1,1,lazio
+Christopher Nkunku,85140301,0,0,0,0,0,0,0,1,1,1,0,1,1,0,lazio
+Mohamed Ihattaren,37073834,0,0,0,0,0,0,0,1,1,1,1,1,1,0,lazio
+Simone Dondi,2000567839,0,0,0,0,0,0,0,0,0,0,1,0,1,1,milan
+Marcello Criaco,2000567179,0,0,0,0,0,0,0,0,0,1,1,0,1,1,milan
+Jiri Mlynek,2000437872,0,0,0,0,0,0,0,0,0,0,1,0,1,1,milan
+Fábio Gonçalves,2000189591,0,0,0,0,0,0,0,0,0,0,1,0,1,1,milan
+Leonardo Rossi,2000018201,0,0,0,0,0,0,0,0,0,0,0,0,1,1,milan
+Nelsón Barrera,2000497901,0,0,0,0,0,0,0,0,0,1,0,0,1,0,milan
+Anthony Martial,85086702,0,0,0,0,0,0,0,0,0,1,1,0,1,1,milan
+Lisandru Tramoni,49056370,0,0,0,0,0,0,0,1,0,0,1,0,1,0,milan
+Óscar,67228635,0,0,0,0,0,0,0,0,1,1,0,1,1,0,milan
+Cristian Carlos Iglesias,2000511849,0,0,0,1,0,0,1,0,0,1,0,0,1,0,milan
+Lorenzo Di Fusco,2000190824,0,0,0,0,0,0,0,0,0,0,0,0,1,1,milan
+Batuhan Kör,70131652,0,0,0,0,0,0,0,0,0,0,1,0,1,1,milan
+Eljif Elmas,47064795,0,0,0,0,0,0,0,0,1,1,0,1,1,0,napoli
+Andrea Merli,2000192307,0,0,0,0,0,0,1,0,0,0,0,0,1,0,napoli
+Óscar Aranda,2000052060,0,0,0,0,0,0,0,0,0,1,1,0,1,1,napoli
+Emiliano Gomez,2000627371,0,0,0,0,0,0,0,0,0,0,0,0,1,1,napoli
+Simone Barcellona,2000508897,0,0,0,0,0,0,0,0,0,0,0,0,1,1,parma
+Yoane Wissa,85140175,0,0,0,0,0,0,0,0,0,1,0,0,1,1,parma
+Tor Andreas Norheim,2000560760,0,0,0,0,0,0,1,0,0,1,0,0,1,0,parma
+Francisco Borja Cruz,2000437496,0,0,0,0,0,0,0,0,0,0,1,0,1,1,parma
+Francesco Matta,2000325901,0,0,0,0,0,0,0,0,1,0,1,1,1,0,parma
+Tomas Suslov,37076659,0,0,0,0,0,0,0,1,1,0,1,1,1,1,parma
+Abner Medrado,2000410747,0,0,0,0,0,0,0,0,0,1,0,1,1,0,parma
+Janis Antiste,49048340,0,0,0,0,0,0,0,0,0,0,1,1,1,1,parma
+Glaysson,2000607603,0,0,0,0,0,0,0,0,1,1,0,1,1,0,roma
+Luis González,2000561873,0,0,0,1,0,0,1,0,0,0,0,0,1,0,roma
+Alessio Giustini,2000506990,0,0,0,0,0,0,0,0,0,0,1,0,1,1,roma
+Markos Bouroutzikas,2000232927,0,1,0,1,0,1,0,0,0,1,0,0,1,0,roma
+Ulises Xavier Pérez Lazarte,2000541711,0,0,0,0,0,0,0,0,0,0,1,1,1,1,roma
+Dante Sottoriva,2000504182,0,0,0,0,0,0,0,0,0,1,0,1,1,1,roma
+Petr Zich,2000436245,0,0,0,0,0,0,0,0,0,1,0,0,1,0,roma
+Frederico Plisca,2000537059,0,0,0,0,0,0,0,0,0,0,0,1,1,1,roma
+Christian Pulisic,92074020,0,0,0,0,0,0,0,1,0,1,1,1,1,0,roma
+Amine Gouiri,48044735,0,0,0,0,0,0,0,0,0,1,0,0,1,1,roma
+Lorenzo Pellegrini,43094100,0,0,0,0,0,1,0,0,1,0,0,1,1,0,roma
+Marco Lombardi,2000509497,0,0,0,0,0,0,0,1,0,0,1,1,1,1,salernitana
+Fabiano Cardaci,2000438270,0,0,0,0,0,0,0,0,1,1,0,0,1,1,salernitana
+Mauro Andreini,2000323661,0,0,0,0,0,0,0,0,1,0,1,1,1,0,salernitana
+Silvio Díaz,2000051566,0,0,0,0,0,0,0,0,0,0,1,0,1,1,salernitana
+M'Bala Nzola,83103196,0,0,0,0,0,0,0,0,0,0,1,0,1,1,salernitana
+Bozhidar Kraev,22041890,0,0,0,0,0,0,0,0,1,0,1,1,1,1,salernitana
+Jakub Jankto,43207792,0,0,0,0,0,0,0,1,1,1,1,0,1,0,salernitana
+Lorenzo Ruiz Díaz,2000508202,0,0,0,0,0,0,0,0,0,0,1,0,1,1,sampdoria
+Alessio Termini,2000508199,0,0,0,0,0,0,0,0,0,0,0,0,1,1,sampdoria
+Riccardo Rosso,2000508196,0,0,0,0,0,0,0,0,0,1,1,0,1,1,sampdoria
+Ruggero Arpini,2000437690,0,0,0,0,0,0,0,0,0,0,0,0,1,1,sampdoria
+Ivano Tavella,2000435429,0,0,0,0,0,0,0,0,0,0,0,1,1,1,sampdoria
+Felice D'Amico,43297400,0,0,0,0,0,0,0,0,0,1,1,1,1,1,sampdoria
+Marco Asensio,67197125,0,0,0,0,0,0,0,1,1,1,1,1,1,0,sampdoria
+Fabio Assalino,2000568432,0,0,0,0,0,0,0,0,0,0,0,0,1,0,sampdoria
+Oussama Idrissi,37052727,0,0,0,0,0,0,0,1,1,1,1,1,1,0,sampdoria
+Michele Mascia,2000568039,0,0,0,0,0,0,0,0,1,1,0,0,1,0,sampdoria
+Ola Brynhildsen,53125145,0,0,0,0,0,0,0,1,0,1,1,0,1,0,sampdoria
+Gianluca Gaetano,43317758,0,0,0,0,0,0,0,1,1,1,1,1,1,1,sampdoria
+Bryan Rugani,2000567826,0,0,0,0,0,0,0,0,0,0,0,1,1,1,sassuolo
+Adolfo Torrisi,2000326083,0,0,0,0,0,0,0,0,1,0,1,1,1,0,sassuolo
+Filippo Ricciardi,2000324317,0,0,0,0,0,0,0,0,1,1,1,1,1,0,sassuolo
+Georgi Atanasov,22083648,0,0,0,0,0,0,0,0,0,0,1,1,1,1,sassuolo
+Sávio,2000011972,0,0,0,0,0,0,0,1,0,0,1,1,1,1,sassuolo
+Alex Zanut,2000194920,0,0,0,0,0,0,0,0,0,1,1,0,1,1,sassuolo
+Manuel Santos,2000439547,0,0,0,0,0,0,0,0,1,1,1,1,1,0,sassuolo
+Rodrigo Gomes,83333463,0,0,0,0,0,0,0,1,0,0,1,0,1,0,sassuolo
+Marcos Paulo,19354619,0,0,0,0,0,0,0,0,1,1,0,1,1,1,sassuolo
+Paulo Dybala,14044150,0,0,0,0,0,0,0,0,0,0,1,1,1,1,sassuolo
+Lorenzo Brotto,2000569462,0,0,0,0,0,1,0,0,1,0,0,0,1,0,spal
+Julien Pfeiffer,2000192363,0,0,0,0,0,0,0,1,0,1,1,0,1,0,spal
+Diego Sanchez,2000439461,0,0,0,0,0,0,0,0,0,1,0,0,1,1,spal
+Simone Vignoli,2000439458,0,0,0,0,0,0,0,0,0,0,1,0,1,1,spal
+Ryôtarô Meshino,45104652,0,0,0,0,0,0,0,0,0,1,1,1,1,1,spal
+Matt Baker,2000439460,0,0,0,0,0,0,0,1,0,0,1,1,1,1,spal
+Ayoub Poderini,2000508895,0,0,0,0,0,0,0,0,1,1,0,1,1,0,spezia
+Erinson Ramírez,77048797,0,0,0,0,0,0,0,1,0,0,1,1,1,0,spezia
+Joseph Ienca,2000436506,0,0,0,0,0,0,0,0,1,1,0,0,1,0,spezia
+Dennis Serofilli,2000197105,0,0,0,0,0,0,0,0,0,0,0,0,1,1,spezia
+Samuel Sosa,86054425,0,0,0,0,0,0,0,0,0,1,1,0,1,0,spezia
+Adam Oudjani,49041403,0,0,0,0,0,0,0,1,0,0,1,0,1,0,spezia
+Orri Steinn Óskarsson,39062838,0,0,0,0,0,0,0,1,0,0,1,0,1,1,spezia
+Luigi Trecroci,2000626439,0,0,0,0,0,0,0,0,0,1,0,0,1,0,spezia
+Tiziano Gennarelli,2000569301,0,0,0,0,0,0,0,0,0,0,1,1,1,1,spezia
+Alessandro Masella,2000438278,0,0,0,0,0,1,0,0,1,0,0,1,1,0,spezia
+Antonello Borgognoni,2000567631,0,0,0,0,0,0,0,0,0,1,0,0,1,0,torino
+Giannis Koromilas,2000234253,0,0,0,0,0,0,0,1,1,1,1,1,1,0,torino
+Eneko Pascual,2000193396,0,0,0,0,1,0,0,1,1,0,1,0,1,0,torino
+Ilyas Chouaref,49055174,0,0,0,0,0,0,0,0,0,0,1,0,1,1,torino
+Felice D'Amico,43297400,0,0,0,0,0,0,0,0,0,1,1,1,1,1,torino
+Valerio Sironi,2000191144,0,0,0,0,0,0,0,0,0,0,0,1,1,1,torino
+Leonardo Lelo,83257795,0,0,0,1,0,0,1,0,0,1,0,0,1,0,torino
+Michael Olise,29221846,0,0,0,0,0,0,0,1,1,0,1,1,1,0,torino
+Luis Ángel Tapia,2000206926,0,0,0,0,0,0,0,1,0,0,1,0,1,0,torino
+Youcef Gherbi,2000188129,0,0,0,0,0,0,0,1,1,1,0,1,1,0,torino
+Josip Brekalo,24046837,0,0,0,0,0,0,0,1,0,1,1,0,1,0,torino
+Will Smallbone,28109942,0,0,0,0,0,0,0,0,1,0,1,1,1,0,torino
+Marco Crestani,2000567632,0,0,0,0,0,0,0,0,0,0,0,0,1,1,torino
+Christos Tzolis,36152916,0,0,0,0,0,0,0,0,1,1,1,0,1,1,udinese
+Melvin Bard,49041157,0,0,1,1,0,0,1,0,0,0,0,0,1,0,udinese
+Salim El Hachimi,2000513191,0,0,0,0,0,0,0,0,0,1,0,0,1,1,verona
+Astrit Selmani,93070505,0,0,0,0,0,0,0,0,0,0,1,1,1,1,verona
+Alberto Savi,2000323571,0,0,0,0,0,0,0,0,1,1,0,1,1,0,verona
+Diego Calderoni,2000435216,0,0,0,0,0,0,0,0,1,1,0,0,1,0,verona
+Riccardo Viti,2000199589,0,0,0,0,0,0,0,0,0,0,1,1,1,1,verona
+Abubakar Chibueze,2000191834,0,1,0,0,0,0,0,0,0,0,1,1,1,1,verona
+Rickard Sahlin,2000483096,0,0,0,0,0,0,0,0,0,1,0,1,1,1,verona
+Mattia Zaccagni,43125343,0,0,0,0,0,0,0,0,1,1,0,1,1,0,verona
+Mehdi Léris,43252697,0,0,0,0,0,0,0,1,1,1,1,1,1,1,verona
+Ondrej Lingr,25055110,0,0,0,0,0,0,0,0,1,0,1,1,1,1,verona
+Cătălin Grosu,2000329331,0,0,0,0,0,0,0,0,0,1,1,1,1,0,verona
+Federico Chiesa,43161651,0,0,0,0,1,0,1,1,0,1,1,0,1,1,zebre
+Gaetano Pasqualone,2000567835,0,0,0,0,0,0,0,0,0,0,1,0,1,1,zebre
+Ronald Novoa,2000415595,0,0,0,0,0,0,0,0,0,0,1,1,1,1,zebre
+Luka Jović,62113639,0,0,0,0,0,0,0,0,0,0,0,1,1,1,zebre
+Diogo Jota,55083779,0,0,0,0,0,0,0,0,0,0,1,1,1,1,zebre
+Harvey Barnes,28100207,0,0,0,0,0,0,0,0,1,1,1,1,1,1,zebre

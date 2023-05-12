@@ -1,0 +1,55 @@
+Player,UID,GK,DR,DC,DL,WBR,DM,WBL,MR,MC,ML,AMR,AMC,AML,STC,Team
+Jofre,67277677,0,0,0,0,0,0,0,0,0,1,1,0,1,1,andorra
+Víctor Campuzano,67214684,0,0,0,0,0,0,0,0,0,1,1,0,1,1,andorra
+Bryan Zaragoza,2000054263,0,0,0,0,0,0,0,1,0,1,0,1,1,0,andorra
+Diego,2000574102,0,0,1,1,0,0,0,0,0,1,0,0,0,0,apamplonab
+Javier Zubizarreta,2000570450,0,0,0,1,0,0,0,0,0,1,0,0,1,0,apamplonab
+Peio Arana,2000438809,0,0,0,0,0,0,0,0,1,1,0,0,1,0,apamplonab
+Adrián Iglesias,2000510876,0,0,0,0,0,0,0,0,0,1,0,0,1,0,apamplonab
+Mati,2000556504,0,0,0,0,1,0,0,0,1,1,1,0,1,1,badalona
+Ale Sánchez,2000512877,0,0,1,0,0,1,0,0,1,1,1,1,1,0,badalona
+Gustavo Abizanda,67293305,0,0,0,0,0,0,0,0,0,1,0,0,1,1,badalona
+Juan Ramón Acosta,2000680229,0,0,0,0,0,0,0,0,0,1,0,0,1,0,badalona
+Julio Nsi,2000629231,0,0,0,0,0,0,0,0,0,1,1,1,1,1,eibar
+Bernardo,2000440739,0,0,0,0,0,0,0,0,0,1,1,1,1,1,eibar
+Jorge Álvarez,2000202563,0,0,0,0,1,0,0,0,0,1,1,0,1,1,eibar
+Manuel Jesús Romero,2000194994,0,0,0,1,0,0,1,0,0,1,0,0,1,0,eibar
+Elliot,67256517,0,0,0,0,0,0,0,0,0,1,1,0,1,1,eibar
+Iván Calero,67176056,0,1,0,1,1,0,1,1,0,1,1,0,0,0,eibar
+Cristo,67211796,0,0,0,0,0,0,0,0,0,1,1,1,1,1,eibar
+Manuel García,2000633004,0,0,0,0,0,0,0,0,0,1,0,0,1,1,girona
+Miguel Rodríguez,2000192674,0,0,0,0,0,0,0,0,1,1,1,1,1,0,girona
+Echu,67229627,0,0,0,0,0,0,0,1,1,1,1,1,1,1,hospitalet
+Roberto Proietti,2000514073,0,0,0,0,0,0,0,0,0,1,0,0,1,1,hospitalet
+Carlos,2000193994,0,0,0,0,0,0,0,0,0,1,0,0,0,1,leonesa
+Jaime Reques,2000077283,0,0,0,0,0,0,0,1,1,1,0,0,1,0,leonesa
+Roberto Olabe,67183968,0,0,0,0,0,1,0,0,1,1,0,1,1,0,leonesa
+Kim Tae-Young,2000194479,0,0,0,0,0,0,0,0,0,1,0,0,1,1,leonesa
+Hugo Neves,83333462,0,0,0,0,0,0,0,1,0,1,1,0,1,0,leonesa
+Alejandro Aleñá,2000202600,0,0,0,1,0,0,0,0,1,1,0,0,0,0,leonesa
+Abderraman Rebbach,2000053956,0,0,0,0,0,0,0,1,0,1,1,0,1,0,lleida
+Sergio,2000713016,0,0,0,0,0,0,0,0,0,1,0,0,1,0,lleida
+Emmanuel Attipoe,13210212,0,0,0,0,0,0,0,0,0,1,0,0,0,0,logrones
+Daniel,2000632726,0,0,0,0,0,0,0,0,0,1,0,1,1,1,logrones
+Javi Pereda,2000199802,0,0,0,0,0,0,0,0,0,1,0,0,1,1,mirandes
+Echedey Carpintier,83212484,0,0,0,1,0,0,1,0,0,1,0,0,1,0,mirandes
+Fede Vico,67142992,0,0,0,0,0,0,0,0,1,1,1,1,1,1,mirandes
+Diego Pampín,67247255,0,0,0,1,0,0,1,0,0,1,1,0,1,0,numantia
+Castri,67294959,0,0,0,0,0,0,0,1,1,1,1,0,1,1,numantia
+Mikel Kortazar,67260193,0,0,0,1,0,0,1,0,0,1,0,0,1,0,olot
+Victor Pérez,2000572055,0,0,0,0,0,0,0,0,0,1,1,0,1,1,olot
+Alejandro Preciado,76058677,0,0,0,0,0,0,0,0,0,1,1,1,1,1,ponferrada
+Julio Delgado,67221282,0,0,0,0,0,0,0,0,0,1,1,0,1,0,pontevedra
+Chiquinho,83169933,0,0,0,0,0,0,0,0,0,1,1,0,1,0,pontevedra
+Antonio Navarro,2000571902,0,0,1,1,0,0,1,0,1,1,0,0,1,0,rsanb
+Vicente,2000571659,0,0,0,0,0,0,0,0,1,1,0,1,0,0,rsanb
+Juan De Dios Navarro,2000196452,0,0,0,0,0,1,0,0,1,1,1,0,0,0,rsantander
+Esteban Iglesias,2000443789,0,0,0,0,0,0,0,0,0,1,1,0,1,0,rsantander
+Abraham Camus,2000663544,0,0,0,0,0,0,0,0,0,1,0,1,1,0,rsantander
+Mauro Puche,2000512104,0,0,0,0,0,0,0,1,0,1,1,0,0,0,sabadell
+Jesús Sillero,67196099,0,0,0,0,0,0,0,0,0,1,1,0,1,1,sabadell
+Arnau Solà,67296656,0,0,1,1,0,1,1,0,1,1,0,0,0,0,tarragona
+Yassin Fekir,48036660,0,0,0,0,0,0,0,0,1,1,1,1,1,1,tarragona
+Martín Lapeña,67256868,0,0,0,0,0,0,0,0,0,1,1,1,0,1,tarragona
+Chus Beltrán,2000629925,0,0,0,0,0,0,0,0,0,1,1,0,0,1,zaragozab
+Félix Artigas,2000511083,0,0,0,0,0,0,0,0,1,1,0,0,1,0,zaragozab

@@ -1,0 +1,69 @@
+Player,UID,GK,DR,DC,DL,WBR,DM,WBL,MR,MC,ML,AMR,AMC,AML,STC,Team
+Asier Goñi,2000570279,0,1,1,0,0,0,0,0,0,0,0,0,0,0,abilbaoc
+Eduardo Garai,2000662654,0,1,1,1,0,0,0,0,0,0,0,0,0,0,abilbaoc
+Jokin Aguirre,2000628756,0,1,0,0,1,0,0,1,0,0,0,0,0,0,abilbaoc
+Daniel Tena,2000629406,0,1,1,0,1,1,0,0,0,0,0,0,0,0,abilbaoc
+Fran,2000629410,0,1,0,1,0,0,1,0,0,0,0,0,0,0,abilbaoc
+Miguel Loureiro,67210521,0,1,0,0,1,0,0,0,0,0,0,0,0,0,andorra
+Isaac,2000681907,0,1,1,1,0,0,0,0,0,0,0,0,0,0,andorra
+Amador,2000440900,0,1,0,0,0,1,0,0,1,0,0,0,0,0,andorra
+Èric Montes,95036004,0,1,1,0,0,1,0,0,1,0,0,0,0,0,andorra
+Adrián Tellado,67260179,0,1,0,0,1,0,0,0,0,0,0,1,0,1,andorra
+Mikel Bengoetxea,2000510871,0,1,1,0,0,1,0,0,1,0,0,0,0,0,apamplonab
+Iñigo Llorente,2000510870,0,1,0,0,0,0,0,0,0,0,1,0,0,0,apamplonab
+Iosu Pérez,2000510877,0,1,1,0,0,1,0,0,1,0,0,0,0,0,apamplonab
+Christian Díaz,2000510073,0,1,1,0,0,0,0,0,1,0,0,0,0,0,badalona
+Jesús García,2000443709,0,1,1,0,1,0,1,0,0,0,0,0,0,0,badalona
+Eugenio,2000196447,0,1,0,1,1,0,0,0,0,0,0,1,0,0,badalona
+Oriol Valentín,2000632214,0,1,1,0,0,0,0,0,0,0,0,0,0,0,eibar
+Iván Calero,67176056,0,1,0,1,1,0,1,1,0,1,1,0,0,0,eibar
+Pablo López,2000612702,0,1,0,0,0,0,0,0,0,0,0,0,0,0,girona
+Yeray Ortega,2000199817,0,1,1,0,0,0,0,0,0,0,0,0,0,0,girona
+Andrés Romero,2000193995,0,1,1,0,1,0,0,0,0,0,0,0,0,0,girona
+Diogo Fonseca,2000197949,0,1,1,0,1,0,0,1,1,0,0,0,0,0,hospitalet
+Luis Iglesias,2000440882,0,1,1,0,0,1,0,0,0,0,0,0,0,0,hospitalet
+Chechu,2000629747,0,1,0,1,1,0,0,0,0,0,1,0,0,0,hospitalet
+Vladimir Fati,2000680262,0,1,1,1,0,0,0,0,0,0,0,0,0,0,hospitalet
+José Antonio Zubillaga,2000443802,0,1,1,0,1,1,0,0,0,0,0,0,0,0,hospitalet
+Bilal Aceña,2000514725,0,1,1,0,0,1,0,0,0,0,0,0,0,0,hospitalet
+Sandro,2000515229,0,1,0,0,1,0,0,1,0,0,1,0,0,0,hospitalet
+Hugo Rincón,2000065892,0,1,0,0,1,0,0,0,0,0,0,0,0,0,leonesa
+Eneko Aguilar,67297733,0,1,0,0,1,0,0,1,1,0,1,0,0,0,lleida
+Julio Lizárraga,2000631089,0,1,1,1,0,0,0,0,0,0,0,0,0,0,lleida
+Abdel Soyinkou,2000713015,0,1,0,1,1,0,0,0,0,0,0,0,0,0,lleida
+Eneko Magunazelaia,2000741128,0,1,0,0,0,0,0,0,0,0,0,0,0,0,lleida
+Luis Alberto,2000197811,0,1,1,0,0,0,0,0,0,0,0,0,0,0,logrones
+David Carmona,67188934,0,1,0,0,1,0,0,1,0,0,1,0,0,0,logrones
+Gorka Iglesias,2000570645,0,1,0,1,0,0,1,0,0,0,0,0,0,0,logrones
+Pablo Sanz,2000685487,0,1,1,0,0,1,0,0,0,0,0,0,0,0,logrones
+Yeray Zabalo,2000438356,0,1,0,0,0,1,0,0,1,0,0,0,0,0,logrones
+Marcos Trabanco,2000016812,0,1,0,0,1,0,0,1,0,0,1,0,0,0,logrones
+Alex Aketxe,2000443798,0,1,0,0,1,0,0,1,0,0,1,0,0,0,mirandes
+Diego Alende,67199156,0,1,1,0,0,1,0,0,1,0,0,0,0,0,mirandes
+Felipe Núñez,2000197172,0,1,1,0,0,0,0,1,0,0,0,0,0,0,mirandes
+Luis Jiménez,2000441678,0,1,0,0,1,0,0,0,0,0,0,0,0,0,numantia
+Víctor Dieste,2000440740,0,1,1,0,0,1,0,0,0,0,0,0,0,0,olot
+Álex Petxarromán,67246376,0,1,1,0,0,0,0,0,0,0,0,0,0,0,olot
+Ryan Pole,76062797,0,1,0,0,1,0,0,0,0,0,0,0,0,0,ponferrada
+Gorka Merino,2000441525,0,1,1,0,0,1,0,0,1,0,0,0,0,0,ponferrada
+Edgar Fernández,2000514789,0,1,1,0,1,0,0,0,0,0,0,0,0,0,ponferrada
+Borja Esnaola,2000438807,0,1,1,1,0,0,0,0,0,0,0,0,0,0,pontevedra
+Fernando Juan,2000198639,0,1,1,0,0,0,0,0,0,0,0,0,0,0,pontevedra
+Andrés Alcántara,2000440886,0,1,1,1,0,0,1,0,0,0,0,0,0,0,pontevedra
+Pablo Jurado,2000681314,0,1,1,1,0,0,0,0,0,0,0,0,0,0,pontevedra
+Abel Pascual,67215623,0,1,1,0,0,0,0,0,0,0,0,0,0,0,pontevedra
+Diego Ceballos,67269375,0,1,0,0,0,0,0,0,0,0,0,0,0,0,pontevedra
+David Krecek,2000569970,0,1,1,0,0,0,0,0,0,0,0,0,0,0,rsanb
+Stefán Þór Jónsson,2000531873,0,1,1,1,0,0,0,0,0,0,0,0,0,0,rsanb
+Özgün Karatepe,2000631119,0,1,1,0,0,0,0,0,0,0,0,0,0,0,rsanb
+Matt Bonfield,2000567798,0,1,0,0,0,0,0,0,0,0,0,0,0,0,rsanb
+Adama Mendy,2000663542,0,1,1,0,0,0,0,1,0,0,0,0,0,0,rsantander
+Ángel López,95078297,0,1,1,1,1,0,1,0,0,0,0,0,0,0,rsantander
+Vicente Agulló,2000031433,0,1,1,0,1,0,0,0,0,0,1,0,0,0,rsantander
+Carlos Isaac,67228752,0,1,1,1,0,0,0,0,0,0,0,0,0,0,sabadell
+Luis,2000193720,0,1,0,1,1,1,0,1,0,0,0,0,0,0,sabadell
+Carlos,2000512225,0,1,1,0,1,0,0,0,0,0,1,0,0,0,sabadell
+Javier,2000664676,0,1,1,0,0,0,0,0,0,0,0,0,0,0,tarragona
+Iago Fernández,2000052986,0,1,1,0,0,0,0,0,0,0,0,0,0,0,tarragona
+Ramón Alfaro,2000511082,0,1,1,0,1,0,0,0,1,0,1,0,0,0,zaragozab
+Julio,2000629924,0,1,0,0,1,0,0,1,0,0,0,0,0,0,zaragozab

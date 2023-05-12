@@ -1,0 +1,9 @@
+,DF,COL,Q0,Q20,Q40,Q60,Q80,Q100
+0,ML_gk_octs,Shot Stopping,1.0,2.0,2.25,2.5,3.0,4.5
+1,ML_gk_octs,Physical,8.25,11.5,12.5,13.25,13.88,16.0
+2,ML_gk_octs,Speed,4.0,12.5,13.5,14.5,15.0,18.0
+3,ML_gk_octs,Mental,9.33,10.67,11.83,12.42,13.33,16.25
+4,ML_gk_octs,Communication,1.0,2.0,2.25,2.5,2.75,3.75
+5,ML_gk_octs,Eccentricity,1.0,2.0,2.0,2.5,3.0,4.5
+6,ML_gk_octs,Aerial,1.0,2.0,2.25,2.5,3.0,4.0
+7,ML_gk_octs,Distribution,1.0,2.0,2.0,2.5,3.0,3.75

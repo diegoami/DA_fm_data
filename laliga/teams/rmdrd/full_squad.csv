@@ -1,0 +1,77 @@
+Match,Player,UID
+#GK,Thibaut Courtois,18026122
+#GK,Francisco Mora,2000437769
+#DR,Takehiro Tomiyasu,45095490
+#DR,Éder Militão,19273276
+#DR,Fabrice Mbassi,2000191910
+#DR,Abderrahmane Sefrioui,2000433189
+#DR,Zinho Vanheusden,18091405
+#DR,Pedro Porro,67268221
+#DR,Isaac Guerra,2000439269
+#DC,Takehiro Tomiyasu,45095490
+#DC,Boubacar Kamara,48043084
+#DC,Éder Militão,19273276
+#DC,Zinho Vanheusden,18091405
+#DC,Edmond Tapsoba,13196616
+#DL,Angeliño,28095342
+#DL,Fabrice Mbassi,2000191910
+#WBR,Takehiro Tomiyasu,45095490
+#WBR,Éder Militão,19273276
+#WBR,Zinho Vanheusden,18091405
+#WBR,Pedro Porro,67268221
+#WBR,Ciprian Trandafir,2000189363
+#WBR,Isaac Guerra,2000439269
+#DM,Boubacar Kamara,48043084
+#DM,Éder Militão,19273276
+#DM,Matías Zeiden,2000272732
+#DM,Youri Tielemans,18077264
+#DM,Fabrice Mbassi,2000191910
+#DM,Abderrahmane Sefrioui,2000433189
+#DM,Zinho Vanheusden,18091405
+#DM,Isaac Guerra,2000439269
+#WBL,Angeliño,28095342
+#WBL,Fabrice Mbassi,2000191910
+#MR,Raheem Sterling,28054109
+#MR,Jadon Sancho,28108490
+#MR,Pedro Porro,67268221
+#MR,Ciprian Trandafir,2000189363
+#MC,Boubacar Kamara,48043084
+#MC,Matías Zeiden,2000272732
+#MC,Juan Martín Sancho,2000377686
+#MC,Youri Tielemans,18077264
+#MC,Abderrahmane Sefrioui,2000433189
+#MC,Andrew Sinclair,2000432933
+#MC,Isaac Guerra,2000439269
+#ML,Angeliño,28095342
+#ML,Juan Martín Sancho,2000377686
+#ML,Raheem Sterling,28054109
+#ML,Vinícius Júnior,19302146
+#ML,Fabrice Mbassi,2000191910
+#ML,Jadon Sancho,28108490
+#AMR,Kylian Mbappé,85139014
+#AMR,Raheem Sterling,28054109
+#AMR,Lê,2000410610
+#AMR,Vinícius Júnior,19302146
+#AMR,Boris Peters,2000506902
+#AMR,Jadon Sancho,28108490
+#AMR,Odsonne Edouard,48036880
+#AMR,Ciprian Trandafir,2000189363
+#AMR,Roberto Bonilla,2000569765
+#AMC,Youri Tielemans,18077264
+#AMC,Raheem Sterling,28054109
+#AMC,Jadon Sancho,28108490
+#AMC,Odsonne Edouard,48036880
+#AML,Juan Martín Sancho,2000377686
+#AML,Kylian Mbappé,85139014
+#AML,Raheem Sterling,28054109
+#AML,Vinícius Júnior,19302146
+#AML,Jadon Sancho,28108490
+#AML,Odsonne Edouard,48036880
+#AML,Roberto Bonilla,2000569765
+#STC,Kylian Mbappé,85139014
+#STC,Raheem Sterling,28054109
+#STC,Lê,2000410610
+#STC,Vinícius Júnior,19302146
+#STC,Boris Peters,2000506902
+#STC,Odsonne Edouard,48036880
+#STC,Roberto Bonilla,2000569765

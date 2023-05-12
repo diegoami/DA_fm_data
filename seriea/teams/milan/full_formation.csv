@@ -1,0 +1,146 @@
+Match,Player,UID
+#GK,Jokin Ezkieta,67196201
+#GK,Mirko Pigliacelli,43061419
+#GK,Seppe Welters,18115983
+#GK,Alphonse Areola,85027976
+#DR,Claudio Forgione,2000434046
+#DR,Mikołaj Wolanski,2000512116
+#DR,Dinis Oliveira,2000434809
+#DR,Jan Bednarek,96047750
+#DR,Fikayo Tomori,28097980
+#DR,Egidio Guidi,2000190821
+#DR,Davide Calabria,43123020
+#DR,Alessandro Romanò,2000434040
+#DR,Fabinho,19183676
+#DR,Wilfried Singo,12078947
+#DC,Raf Rosseel,2000568334
+#DC,Claudio Crippa,2000434044
+#DC,Christophe Mercier,2000431621
+#DC,Tanaboon Arteaga,2000506774
+#DC,Boubakar Sissako,2000198829
+#DC,Jan Bednarek,96047750
+#DC,Fikayo Tomori,28097980
+#DC,Jost Kunz,2000504128
+#DC,Alessandro Romanò,2000434040
+#DC,Fabinho,19183676
+#DC,Davinson Sánchez,76023027
+#DL,Claudio Crippa,2000434044
+#DL,Cristian Carlos Iglesias,2000511849
+#DL,Davide Calabria,43123020
+#DL,Alessandro Romanò,2000434040
+#WBR,Davide Calabria,43123020
+#WBR,Wilfried Singo,12078947
+#DM,Raf Rosseel,2000568334
+#DM,Rodrigo Neves,2000435249
+#DM,Christophe Mercier,2000431621
+#DM,Filip Krastev,22073681
+#DM,Exequiel Palacios,14110846
+#DM,Mikołaj Wolanski,2000512116
+#DM,Tanaboon Arteaga,2000506774
+#DM,Boubakar Sissako,2000198829
+#DM,Jan Bednarek,96047750
+#DM,Egidio Guidi,2000190821
+#DM,Gennaro Bressan,2000506772
+#DM,Jost Kunz,2000504128
+#DM,Ronaldo Vieira,29161106
+#DM,Fabinho,19183676
+#DM,Franck Kessié,13136664
+#DM,Davinson Sánchez,76023027
+#WBL,Christophe Mercier,2000431621
+#WBL,Cristian Carlos Iglesias,2000511849
+#WBL,Davide Calabria,43123020
+#MR,Riccardo Gozzi,2000506776
+#MR,Houssin Diouri,2000506761
+#MR,Kenan Mehic,2000506137
+#MR,Alessandro Bertini,2000190822
+#MR,Mateus Fernandes,83320124
+#MR,Oliveira,2000567177
+#MR,Selahattin Erdoğan,2000512814
+#MR,Lisandru Tramoni,49056370
+#MC,Raf Rosseel,2000568334
+#MC,Riccardo Gozzi,2000506776
+#MC,Houssin Diouri,2000506761
+#MC,Marko Čulić,2000505302
+#MC,Rodrigo Neves,2000435249
+#MC,Christophe Mercier,2000431621
+#MC,Alessandro Bertini,2000190822
+#MC,Jonas Pfaff,2000186472
+#MC,Mateus Fernandes,83320124
+#MC,Filip Krastev,22073681
+#MC,Exequiel Palacios,14110846
+#MC,Mikołaj Wolanski,2000512116
+#MC,Wagner Ricardo,2000506775
+#MC,Tanaboon Arteaga,2000506774
+#MC,Davide Bosetti,2000506773
+#MC,Boubakar Sissako,2000198829
+#MC,Loris Zunino,2000506778
+#MC,Egidio Guidi,2000190821
+#MC,Óscar,67228635
+#MC,Gennaro Bressan,2000506772
+#MC,Jost Kunz,2000504128
+#MC,Ronaldo Vieira,29161106
+#MC,Davide Calabria,43123020
+#MC,Fabinho,19183676
+#MC,Franck Kessié,13136664
+#ML,Marcello Criaco,2000567179
+#ML,Nelsón Barrera,2000497901
+#ML,Anthony Martial,85086702
+#ML,Loris Zunino,2000506778
+#ML,Óscar,67228635
+#ML,Cristian Carlos Iglesias,2000511849
+#AMR,Simone Dondi,2000567839
+#AMR,Marcello Criaco,2000567179
+#AMR,Riccardo Gozzi,2000506776
+#AMR,Houssin Diouri,2000506761
+#AMR,Kenan Mehic,2000506137
+#AMR,Jiri Mlynek,2000437872
+#AMR,Lukas Elsik,2000193022
+#AMR,Alessandro Bertini,2000190822
+#AMR,Fábio Gonçalves,2000189591
+#AMR,Exequiel Palacios,14110846
+#AMR,Oliveira,2000567177
+#AMR,Selahattin Erdoğan,2000512814
+#AMR,Gaspar Andrade,2000437519
+#AMR,Anthony Martial,85086702
+#AMR,Lisandru Tramoni,49056370
+#AMR,Batuhan Kör,70131652
+#AMC,Riccardo Gozzi,2000506776
+#AMC,Marko Čulić,2000505302
+#AMC,Alessandro Bertini,2000190822
+#AMC,Jonas Pfaff,2000186472
+#AMC,Mateus Fernandes,83320124
+#AMC,Filip Krastev,22073681
+#AMC,Exequiel Palacios,14110846
+#AMC,Wagner Ricardo,2000506775
+#AMC,Davide Bosetti,2000506773
+#AMC,Benjamín Croce,2000377768
+#AMC,Héctor Flores,2000285908
+#AMC,Óscar,67228635
+#AML,Simone Dondi,2000567839
+#AML,Marcello Criaco,2000567179
+#AML,Jiri Mlynek,2000437872
+#AML,Fábio Gonçalves,2000189591
+#AML,Leonardo Rossi,2000018201
+#AML,Nelsón Barrera,2000497901
+#AML,Anthony Martial,85086702
+#AML,Lisandru Tramoni,49056370
+#AML,Óscar,67228635
+#AML,Cristian Carlos Iglesias,2000511849
+#AML,Lorenzo Di Fusco,2000190824
+#AML,Batuhan Kör,70131652
+#STC,Simone Dondi,2000567839
+#STC,Marcello Criaco,2000567179
+#STC,Borja Molina,2000506770
+#STC,Jiri Mlynek,2000437872
+#STC,Lukas Elsik,2000193022
+#STC,Fábio Gonçalves,2000189591
+#STC,Leonardo Rossi,2000018201
+#STC,Alberto Serra,2000506756
+#STC,Oliveira,2000567177
+#STC,Wagner Ricardo,2000506775
+#STC,Gaspar Andrade,2000437519
+#STC,Anthony Martial,85086702
+#STC,Benjamín Croce,2000377768
+#STC,Héctor Flores,2000285908
+#STC,Lorenzo Di Fusco,2000190824
+#STC,Batuhan Kör,70131652

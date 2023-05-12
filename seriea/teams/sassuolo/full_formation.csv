@@ -1,0 +1,140 @@
+Match,Player,UID
+#GK,Emiliano Buono,2000567820
+#GK,Marcello Carrieri,2000437682
+#GK,Tim Rönning,93065015
+#GK,Andrea Bianchini,43266746
+#DR,Mattia Napoli,2000507848
+#DR,Nicolò Brighi,2000192605
+#DR,Raimondo Gadau,2000192601
+#DR,Nicolò Armini,43373238
+#DR,Emerson,19158043
+#DR,Damiano Manzella,2000438268
+#DR,Alessandro Alborghetti,2000566976
+#DR,Umberto Lettieri,2000567821
+#DR,Pol Lirola,67211095
+#DC,Mattia Napoli,2000507848
+#DC,Paolo Di Napoli,2000507831
+#DC,Nicolò Brighi,2000192605
+#DC,Nicolò Armini,43373238
+#DC,Umberto Lettieri,2000567821
+#DC,Lisandro Martínez,14167329
+#DC,Matteo Gabbia,43266774
+#DL,Nicolò Brighi,2000192605
+#DL,Raimondo Gadau,2000192601
+#DL,Vasilis Zagaritis,36151881
+#DL,Nicolò Armini,43373238
+#DL,Emerson,19158043
+#DL,Nicolás Tagliafico,14008030
+#DL,Alessandro Alborghetti,2000566976
+#DL,Pol Lirola,67211095
+#DL,Lisandro Martínez,14167329
+#WBR,Raimondo Gadau,2000192601
+#WBR,Vincenzo Puccinelli,2000192602
+#WBR,Nicolò Armini,43373238
+#WBR,Emerson,19158043
+#WBR,Nahitan Nández,78067241
+#WBR,Damiano Manzella,2000438268
+#WBR,Pol Lirola,67211095
+#DM,Paolo Di Napoli,2000507831
+#DM,Godwin Ackah,2000192606
+#DM,Lorenzo Campadelli,2000435439
+#DM,Imran Louza,48038017
+#DM,Nahitan Nández,78067241
+#DM,Damiano Manzella,2000438268
+#DM,Lisandro Martínez,14167329
+#DM,Matteo Gabbia,43266774
+#WBL,Vasilis Zagaritis,36151881
+#WBL,Emerson,19158043
+#WBL,Nicolás Tagliafico,14008030
+#WBL,Alessandro Alborghetti,2000566976
+#MR,Marco Saporito,2000507393
+#MR,Gregorio Poggi,2000434780
+#MR,Sávio,2000011972
+#MR,Vincenzo Puccinelli,2000192602
+#MR,Andrea Chiappetta,2000567823
+#MR,Rodrigo Gomes,83333463
+#MR,Nahitan Nández,78067241
+#MR,Pol Lirola,67211095
+#MC,Adam Karabec,25062522
+#MC,Paolo Di Napoli,2000507831
+#MC,Marco Saporito,2000507393
+#MC,Enrico Taurino,2000435791
+#MC,Gregorio Poggi,2000434780
+#MC,Adolfo Torrisi,2000326083
+#MC,Filippo Ricciardi,2000324317
+#MC,Gianmario Minelli,2000192822
+#MC,Godwin Ackah,2000192606
+#MC,Dinko Mandura,2000186481
+#MC,Lorenzo Campadelli,2000435439
+#MC,Imran Louza,48038017
+#MC,Manuel Santos,2000439547
+#MC,Gianmarco Solagna,2000323862
+#MC,Marcos Paulo,19354619
+#MC,Nahitan Nández,78067241
+#MC,Hamed Junior Traoré,43317933
+#MC,Lisandro Martínez,14167329
+#ML,Marco Saporito,2000507393
+#ML,Gregorio Poggi,2000434780
+#ML,Filippo Ricciardi,2000324317
+#ML,Gianmario Minelli,2000192822
+#ML,Alex Zanut,2000194920
+#ML,Nicolás Tagliafico,14008030
+#ML,Manuel Santos,2000439547
+#ML,Marcos Paulo,19354619
+#ML,Alessandro Alborghetti,2000566976
+#AMR,Lorenzo Micucci,2000567825
+#AMR,Gregorio Poggi,2000434780
+#AMR,Adolfo Torrisi,2000326083
+#AMR,Filippo Ricciardi,2000324317
+#AMR,Georgi Atanasov,22083648
+#AMR,Sávio,2000011972
+#AMR,Simone Felugo,2000193649
+#AMR,Godwin Ackah,2000192606
+#AMR,Raimondo Gadau,2000192601
+#AMR,Francesco Petrini,2000435442
+#AMR,Alex Zanut,2000194920
+#AMR,Vincenzo Puccinelli,2000192602
+#AMR,Imran Louza,48038017
+#AMR,Andrea Chiappetta,2000567823
+#AMR,Manuel Santos,2000439547
+#AMR,Rodrigo Gomes,83333463
+#AMR,Nahitan Nández,78067241
+#AMR,Paulo Dybala,14044150
+#AMC,Adam Karabec,25062522
+#AMC,Bryan Rugani,2000567826
+#AMC,Enrico Taurino,2000435791
+#AMC,Adolfo Torrisi,2000326083
+#AMC,Filippo Ricciardi,2000324317
+#AMC,Georgi Atanasov,22083648
+#AMC,Sávio,2000011972
+#AMC,Simone Felugo,2000193649
+#AMC,Gianmario Minelli,2000192822
+#AMC,Godwin Ackah,2000192606
+#AMC,Dinko Mandura,2000186481
+#AMC,Imran Louza,48038017
+#AMC,Manuel Santos,2000439547
+#AMC,Marcos Paulo,19354619
+#AMC,Hamed Junior Traoré,43317933
+#AMC,Paulo Dybala,14044150
+#AML,Bryan Rugani,2000567826
+#AML,Adolfo Torrisi,2000326083
+#AML,Filippo Ricciardi,2000324317
+#AML,Georgi Atanasov,22083648
+#AML,Sávio,2000011972
+#AML,Alex Zanut,2000194920
+#AML,Manuel Santos,2000439547
+#AML,Rodrigo Gomes,83333463
+#AML,Marcos Paulo,19354619
+#AML,Paulo Dybala,14044150
+#STC,Bryan Rugani,2000567826
+#STC,Lorenzo Micucci,2000567825
+#STC,Georgi Atanasov,22083648
+#STC,Sávio,2000011972
+#STC,Simone Felugo,2000193649
+#STC,Borys Bococi,2000461608
+#STC,Francesco Petrini,2000435442
+#STC,Alex Zanut,2000194920
+#STC,Andrea Chiappetta,2000567823
+#STC,Gianmarco Solagna,2000323862
+#STC,Marcos Paulo,19354619
+#STC,Paulo Dybala,14044150
